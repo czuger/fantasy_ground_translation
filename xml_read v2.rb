@@ -20,6 +20,7 @@ data.each do |t|
       puts 'Translating multiple p'
     else
       puts 'Translating single p'
+      p t_cache.translate( t.text )
     end
   elsif t.name == 'h'
     puts 'Translating header'

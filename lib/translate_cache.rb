@@ -11,8 +11,6 @@ class TranslateCache
   end
 
   def translate( data )
-    p data
-
     if @cache.has_key?( data )
       puts "Cache hit for #{data}"
       return @cache[ data ]

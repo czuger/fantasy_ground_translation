@@ -7,3 +7,35 @@ Wilderness Encounters: &2 !ruby/string:Nori::StringWithAttributes
   str: Rencontres du désert
   attributes: {}
 *2: *2
+? The community closest to the Sunless Citadel is a village called Oakhurst. Most
+  of its 900 residents (including outlying farms) are human, with a sizable minority
+  of halflings and a scattering of other races.
+: &3 !ruby/string:Nori::StringWithAttributes
+  str: La Communauté le plus proche de la citadelle Sunless est un village appelé
+    Oakhurst. La plupart de ses 900 habitants (y compris les fermes éloignées) est
+    des êtres humaine, avec une minorité importante de halfelins et une dispersion
+    des autres races.
+  attributes: {}
+*3: *3
+'Significant locations in Oakhurst, and the people to be found within them, include the following:': &4 !ruby/string:Nori::StringWithAttributes
+  str: 'Lieux importants à Oakhurst et les gens se trouvent en leur sein, est les
+    suivants :'
+  attributes: {}
+*4: *4
+? Player characters can discover the following additional information while spending
+  time in the local tavern, or through asking the right questions of the locals.
+: &5 !ruby/string:Nori::StringWithAttributes
+  str: Personnages non-joueurs peuvent découvrir les renseignements additionnels suivants
+    tout en passer du temps dans la taverne locale, ou par le biais de poser les bonnes
+    questions de ses habitants.
+  attributes: {}
+*5: *5
+? If the characters are anywhere between Oakhurst and the Sunless Citadel at night,
+  four twig blights attack the party. The blights attack stealthily from out of nearby
+  foliage.
+: &6 !ruby/string:Nori::StringWithAttributes
+  str: Si les caractères sont n’importe où entre Oakhurst et la citadelle Sunless
+    pendant la nuit, quatre rameaux rouille attaque la partie. La rouille attaque
+    furtivement hors de feuillage à proximité.
+  attributes: {}
+*6: *6
