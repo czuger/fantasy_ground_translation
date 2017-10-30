@@ -171,3 +171,296 @@ The Green Dragon Inn: &7 !ruby/string:Nori::StringWithAttributes
     à la justice et le bien-être général. Dans le monde battue, fatigué de Greyhawk,
     profit et pouvoir primer sur lhéroïsme.
   attributes: {}
+? |-
+  See the old Dragon from his throne
+  Sink with enormous ruin down!
+: &8 !ruby/string:Nori::StringWithAttributes
+  str: Voir le vieux Dragon trône son évier avec énorme ruine vers le bas !
+  attributes: {}
+*8: *8
+"- Hymn": &9 !ruby/string:Nori::StringWithAttributes
+  str: "-Hymne"
+  attributes: {}
+*9: *9
+? Once the characters are ready to leave Oakhurst, the adventure truly begins. The
+  overgrown Old Road winds through rocky downs, near stands of old-growth oak, and
+  past abandoned farms. It is 7 miles from Oakhurst to the Sunless Citadel.
+: &10 !ruby/string:Nori::StringWithAttributes
+  str: Une fois que les personnages sont prêts à quitter Oakhurst, l’aventure commence
+    vraiment. L’ancienne friche route serpente à travers de rocky downs, près de peuplements
+    de chêne anciennes et passé des fermes abandonnées. C’est à 7 milles de Oakhurst
+    à la citadelle sans soleil.
+  attributes: {}
+*10: *10
+? The ravine runs for several miles in either direction, with an average depth and
+  width of 30 feet. At the point where it most closely intersects the Old Road, it
+  widens to 40 feet.
+: &11 !ruby/string:Nori::StringWithAttributes
+  str: Le ravin s’étend sur plusieurs milles dans les deux sens, avec une profondeur
+    moyenne et 30 pieds de largeur. Au point où elle coupe plus étroitement la vieille
+    route, elle s’étend à 40 pieds.
+  attributes: {}
+*11: *11
+? A successful DC 10 Intelligence (Investigation) or Wisdom (Survival) check reveals
+  that the area in and around the pillars has hosted many small campfires, some of
+  as recent as a month ago. Someone went to some effort to hide the evidence of the
+  camps from casual scrutiny.
+: &12 !ruby/string:Nori::StringWithAttributes
+  str: Un succès DC 10 Intelligence (enquête) ou un contrôle de la sagesse (survie)
+    révèle que le secteur dans et autour des piliers a accueilli de nombreux petits
+    feux de camp, certains des plus récents comme il y a un mois. Quelqu'un est allé
+    à quelques efforts pour cacher les preuves des camps des regards occasionnels.
+  attributes: {}
+*12: *12
+? Adventurers can easily climb down the knotted rope, using the wall to brace themselves.
+  Using the carved indentations is slower but only slightly harder. The descent is
+  50 feet to the ledge (area 1).
+: &13 !ruby/string:Nori::StringWithAttributes
+  str: Aventuriers peuvent facilement grimper à la corde nouée, en utilisant le mur
+    pour eux-mêmes. En utilisant les indentations sculptées est plus lent mais seulement
+    un peu plus difficile. La descente est de 50 pieds au rebord (zone 1).
+  attributes: {}
+*13: *13
+General Features: &14 !ruby/string:Nori::StringWithAttributes
+  str: Caractéristiques générales
+  attributes: {}
+*14: *14
+The following facts about the environment are true unless otherwise noted in a specific area description.: &15 !ruby/string:Nori::StringWithAttributes
+  str: Les faits suivants concernant l’environnement sont vrais, sauf indication contraire
+    dans une description de la zone spécifique.
+  attributes: {}
+*15: *15
+'Village Hall. ': &16 !ruby/string:Nori::StringWithAttributes
+  str: 'Salle des fêtes. '
+  attributes: {}
+*16: *16
+The center of government in Oakhurst includes the office of Mayor Vurnor Leng, a male human noble.: &17 !ruby/string:Nori::StringWithAttributes
+  str: Le centre du gouvernement à Oakhurst comprend le Bureau du maire Vurnor Leng,
+    un noble humain mâle.
+  attributes: {}
+*17: *17
+'General Store. ': &18 !ruby/string:Nori::StringWithAttributes
+  str: 'Magasin général. '
+  attributes: {}
+*18: *18
+? The village's main source for supplies and merchandise is the general store, owned
+  and operated by Kerowyn Hucrele, a female human noble.
+: &19 !ruby/string:Nori::StringWithAttributes
+  str: Source principale du village pour les fournitures et marchandises est le magasin
+    général, détenu et exploité par Kerowyn Hucrele, un noble humain femelle.
+  attributes: {}
+*19: *19
+'Shrine. ': &20 !ruby/string:Nori::StringWithAttributes
+  str: 'Sanctuaire. '
+  attributes: {}
+*20: *20
+? Advice, information, and healing are among the services dispensed at the village's
+  shrine. It is maintained by Dem "Corkie" Nackle, a female gnome priest of Pelor.
+: &21 !ruby/string:Nori::StringWithAttributes
+  str: Conseils, informations et la guérison sont parmi les services dispensés au
+    sanctuaire du village. Il est maintenu par Dem « Corkie » Nackle, un prêtre gnome
+    femelle de Pelor.
+  attributes: {}
+*21: *21
+'Jail. ': &22 !ruby/string:Nori::StringWithAttributes
+  str: 'Prison. '
+  attributes: {}
+*22: *22
+? Next to the village hall is a stout building where miscreants serve their sentences.
+  Oakhurst's constable is Felosial, a female half-elf veteran. She commands a force
+  of sixteen guards and four scouts who keep the village safe.
+: &23 !ruby/string:Nori::StringWithAttributes
+  str: À côté du village hall est un bâtiment solide où les mécréants purgent leur
+    peine. L’agent de Oakhurst est Felosial, des combattantes demi-elfe. Elle commande
+    une force de seize gardiens et quatre scouts qui protègent le village.
+  attributes: {}
+*23: *23
+'Blacksmith. ': &24 !ruby/string:Nori::StringWithAttributes
+  str: 'Forgeron. '
+  attributes: {}
+*24: *24
+Repairing and forging arms and armor is the job of the village smithy, Rurik Lutgehr, a male dwarf commoner.: &25 !ruby/string:Nori::StringWithAttributes
+  str: Réparation et forger des armes et des armures sont le travail de la forge du
+    village, Lutgehr de Rurik, un mâle nain roturier.
+  attributes: {}
+*25: *25
+'Ol'' Boar Inn. ': &26 !ruby/string:Nori::StringWithAttributes
+  str: 'Ol '' Boar Inn. '
+  attributes: {}
+*26: *26
+? Garon, a male human commoner, is the owner and barkeep of the Ol' Boar Inn. He serves
+  food and drink, and the place has a few rooms that visitors can rent.
+: &27 !ruby/string:Nori::StringWithAttributes
+  str: Garon, un roturier humain masculin, est le propriétaire et le barman de l’ol
+    ' Boar Inn. Il sert de nourriture et boisson, et le lieu a quelques chambres qui
+    peuvent louer des visiteurs.
+  attributes: {}
+*27: *27
+? "\n\t\t\t\t\t\tNo one knows for sure what the Sunless Citadel once was, but legends
+  hint that it served as the retreat of an ancient dragon cult.\n\t\t\t\t\t\tThe Old
+  Road skirts the Ashen Plain, a lifeless area. A character who succeeds on a DC 15
+  Intelligence (History) check knows that the desolation is attributed to the long-ago
+  rampage of a dragon named Ashardalon. A few locals also know this fact.\n\t\t\t\t\t\tCattle
+  herders don't graze their stock too far afield these days. They're frightened by
+  stories of new monsters that maraud by night. From time to time, cattle and people
+  who have gone out alone at night have been found dead the next day, bearing dozens
+  of needle-like wounds. No one has seen the creatures that cause this mayhem, nor
+  do they leave a discernible trail.\n\t\t\t\t\t\tThe missing adventurers include
+  a fighter (Talgen Hucrele), a wizard (Sharwyn Hucrele), a paladin of Pelor (Sir
+  Braford), and a ranger (Karakas). Sir Braford was not a local, and he had a magic
+  sword called Shatterspike.\n\t\t\t\t\t\tSometimes the goblins offer a different
+  apple at mid winter. This apple is corpse-white and poisonous, even to the touch.
+  No samples of either apple are to be had.\n\t\t\t\t\t\tGaron, the barkeep of the
+  Ol' Boar Inn, remembers the last time anyone, aside from Talgen and Sharwyn, asked
+  questions about the Sunless Citadel. About thirteen years ago, a grim human named
+  Belak stopped by, and he had a very large pet frog\n\t\t\t\t\t\tNo one knows for
+  sure what the Sunless Citadel once was, but legends hint that it served as the retreat
+  of an ancient dragon cult.\n\t\t\t\t\t\tThe Old Road skirts the Ashen Plain, a lifeless
+  area. A character who succeeds on a DC 15 Intelligence (History) check knows that
+  the desolation is attributed to the long-ago rampage of a dragon named Ashardalon.
+  A few locals also know this fact.\n\t\t\t\t\t\tCattle herders don't graze their
+  stock too far afield these days. They're frightened by stories of new monsters that
+  maraud by night. From time to time, cattle and people who have gone out alone at
+  night have been found dead the next day, bearing dozens of needle-like wounds. No
+  one has seen the creatures that cause this mayhem, nor do they leave a discernible
+  trail.\n\t\t\t\t\t\tThe missing adventurers include a fighter (Talgen Hucrele),
+  a wizard (Sharwyn Hucrele), a paladin of Pelor (Sir Braford), and a ranger (Karakas).
+  Sir Braford was not a local, and he had a magic sword called Shatterspike.\n\t\t\t\t\t\tSometimes
+  the goblins offer a different apple at mid winter. This apple is corpse-white and
+  poisonous, even to the touch. No samples of either apple are to be had.\n\t\t\t\t\t\tGaron,
+  the barkeep of the Ol' Boar Inn, remembers the last time anyone, aside from Talgen
+  and Sharwyn, asked questions about the Sunless Citadel. About thirteen years ago,
+  a grim human named Belak stopped by, and he had a very large pet frog\n\t\t\t\t\t"
+: &28 !ruby/string:Nori::StringWithAttributes
+  str: "\n\t\t\t\t\t\tPersonne ne sait avec certitude ce qui la citadelle Sunless
+    était autrefois, mais le soupçon de légendes qu’il servit à la retraite d’un culte
+    ancien dragon.\n\t\t\t\t\t\tLa vieille route longe la plaine Ashen, un quartier
+    sans vie. Un personnage qui réussit lors d’un contrôle DC 15 Intelligence (histoire)
+    sait que la désolation est attribuée à la rampage long-il y a d’un dragon nommé
+    Ashardalon. Quelques gens du coin savent aussi ce fait.\n\t\t\t\t\t\tLes éleveurs
+    de bovins ne paissent leur stock trop loin ces jours-ci. Ils sont effrayés par
+    les histoires de nouveaux monstres qui maraud par nuit. De temps à autre, bétail
+    et ceux qui est partis seul dans la nuit a retrouvé mort le lendemain, portant
+    des dizaines de plaies aciculaires. Personne n’a vu les créatures qui causent
+    ce grabuge, ni qu’ils laissent une traînée visible.\n\t\t\t\t\t\tLes aventuriers
+    manquantes comprennent un combattant (Talgen Hucrele), un Assistant (Sharwyn Hucrele),
+    un paladin de Pelor (Sir Braford) et un ranger (Karakas). Sir Braford n’était
+    pas un local, et il avait une épée magique appelée Shatterspike.\n\t\t\t\t\t\tLes
+    Korrigans proposent parfois une pomme différente au milieu de l’hiver. Cette pomme
+    est cadavre-blanc et toxique, même au toucher. Aucun échantillon de soit apple
+    n’est à avoir.\n\t\t\t\t\t\tGaron, le barman de l’ol ' Boar Inn, souvient la dernière
+    fois que n’importe qui, en dehors de Talgen et de Sharwyn, posé des questions
+    sur la citadelle sans soleil. Environ treize ans, un homme sombre nommé Belak
+    arrêté par, et il avait un très grande grenouille pour animaux de compagnie, que
+    personne ne sait avec certitude ce qui la citadelle Sunless était autrefois, mais
+    les légendes laissent entrevoir qu’il servit à la retraite d’un culte ancien dragon.\n\t\t\t\t\t\tLa
+    vieille route longe la plaine Ashen, un quartier sans vie. Un personnage qui réussit
+    lors d’un contrôle DC 15 Intelligence (histoire) sait que la désolation est attribuée
+    à la rampage long-il y a d’un dragon nommé Ashardalon. Quelques gens du coin savent
+    aussi ce fait.\n\t\t\t\t\t\tLes éleveurs de bovins ne paissent leur stock trop
+    loin ces jours-ci. Ils sont effrayés par les histoires de nouveaux monstres qui
+    maraud par nuit. De temps à autre, bétail et ceux qui est partis seul dans la
+    nuit a retrouvé mort le lendemain, portant des dizaines de plaies aciculaires.
+    Personne n’a vu les créatures qui causent ce grabuge, ni qu’ils laissent une traînée
+    visible.\n\t\t\t\t\t\tLes aventuriers manquantes comprennent un combattant (Talgen
+    Hucrele), un Assistant (Sharwyn Hucrele), un paladin de Pelor (Sir Braford) et
+    un ranger (Karakas). Sir Braford n’était pas un local, et il avait une épée magique
+    appelée Shatterspike.\n\t\t\t\t\t\tLes Korrigans proposent parfois une pomme différente
+    au milieu de l’hiver. Cette pomme est cadavre-blanc et toxique, même au toucher.
+    Aucun échantillon de soit apple n’est à avoir.\n\t\t\t\t\t\tGaron, le barman de
+    l’ol ' Boar Inn, souvient la dernière fois que n’importe qui, en dehors de Talgen
+    et de Sharwyn, posé des questions sur la citadelle sans soleil. Environ treize
+    ans, un homme sombre nommé Belak arrêté, et il avait une très grande grenouille
+    pour animaux de compagnie\n\t\t\t\t\t"
+  attributes: {}
+*28: *28
+? "\n\t\t\t\t\t\tEncounter: Twig Blights"
+: &29 !ruby/string:Nori::StringWithAttributes
+  str: "\n\t\t\t\t\t\tRencontre : Brindille rouille"
+  attributes: {}
+*29: *29
+'Encounter: ': &30 !ruby/string:Nori::StringWithAttributes
+  str: 'Rencontre : '
+  attributes: {}
+*30: *30
+? The Old Road passes to the east of a narrow ravine. At the road's closest approach
+  to the cleft, several broken pillars jut from the earth where the ravine widens.
+  Two of the pillars stand straight, but most lean atop sloped earth. Others are broken,
+  and several have apparently fallen into the dark depths. A few similar pillars are
+  visible on the opposite side of the ravine.
+: &31 !ruby/string:Nori::StringWithAttributes
+  str: L’ancienne route passe à l’est d’un ravin étroit. À l’approche plus proche
+    de la route la fente, plusieurs piliers brisés jut de la terre où le ravin s’élargit.
+    Deux piliers se tiennent droites, mais plus maigre au sommet de la terre en pente.
+    D’autres sont brisés, et plusieurs sont apparemment tombés dans les profondeurs
+    sombres. Quelques piliers similaires sont visibles sur le côté opposé du ravin.
+  attributes: {}
+*31: *31
+A sturdy, knotted rope is tied to one of the leaning pillars on this side of the ravine.: &32 !ruby/string:Nori::StringWithAttributes
+  str: Une corde solide, nouée est liée à un des piliers penchée sur ce côté du ravin.
+  attributes: {}
+*32: *32
+'Investigating. ': &33 !ruby/string:Nori::StringWithAttributes
+  str: 'Enquête sur. '
+  attributes: {}
+*33: *33
+? The pillars are worn and broken, and graffiti in the Dwarvish alphabet covers most
+  of them. Characters who know Goblin (after translating the letters from Dwarvish)
+  recognize the inscriptions as warnings and threats against potential trespassers.
+: &34 !ruby/string:Nori::StringWithAttributes
+  str: Les piliers sont portés et brisés, et graffiti en alphabet NANIEN couvre la
+    majeure partie d'entre eux. Caractères qui connaissez gobelin (après traduction
+    des lettres de NANIEN) reconnaissent les inscriptions comme des avertissements
+    et des menaces contre les intrus potentiels.
+  attributes: {}
+*34: *34
+'Descending. ': &35 !ruby/string:Nori::StringWithAttributes
+  str: 'Par ordre décroissant. '
+  attributes: {}
+*35: *35
+? The rope tied to one of the leaning pillars hangs down into the darkness of the
+  ravine. Judging by its good condition, the rope couldn't have been tied there any
+  longer than two or three weeks ago. From the edge of the ravine, older and weathered
+  handholds and footholds can be seen carved into the cliff face. These are goblin-carved.
+: &36 !ruby/string:Nori::StringWithAttributes
+  str: La corde attachés à l’un des piliers penchée se bloque dans les ténèbres de
+    la ravine. À en juger par son bon état, la corde ne pouvait pas avoir été liée
+    il plus longtemps que deux ou trois semaines. Du bord du ravin, points d’ancrage
+    et les poignées anciennes et patinées voit sculptées dans la falaise. Voici les
+    gobelin sculptés.
+  attributes: {}
+*36: *36
+'Doors. ': &37 !ruby/string:Nori::StringWithAttributes
+  str: 'Portes. '
+  attributes: {}
+*37: *37
+The doors are wooden or stone.: &38 !ruby/string:Nori::StringWithAttributes
+  str: Les portes sont en bois ou en pierre.
+  attributes: {}
+*38: *38
+'Light. ': &39 !ruby/string:Nori::StringWithAttributes
+  str: 'Lumière. '
+  attributes: {}
+*39: *39
+? Beyond area 2, many rooms in the underground dungeon are lightless. Descriptions
+  assume that the characters have a suitable light source and are able to see their
+  surroundings.
+: &40 !ruby/string:Nori::StringWithAttributes
+  str: Au delà de la zone 2, beaucoup de chambres dans le cachot souterrain est tous
+    feux éteints. Descriptions de supposent que les personnages ont un éclairage approprié
+    et sont capables de voir leur environnement.
+  attributes: {}
+*40: *40
+'Ventilation. ': !ruby/string:Nori::StringWithAttributes
+  str: 'Ventilation. '
+  attributes: {}
+? All keyed areas contain an adequate air supply. The air is renewed from countless
+  cracks leading to the upper open cavern and the surface. These cracks are too small
+  for any but creatures such as giant rats to navigate.
+: &41 !ruby/string:Nori::StringWithAttributes
+  str: Tous les domaines clés contiennent une arrivée d’air suffisante. L’air est
+    renouvelé d’innombrables fissures menant à la caverne ouverte supérieure et à
+    la surface. Ces fissures sont trop petits pour tout, mais des créatures comme
+    des rats géants pour naviguer.
+  attributes: {}
+*41: *41
