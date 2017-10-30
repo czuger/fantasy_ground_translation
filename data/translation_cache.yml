@@ -1,0 +1,9 @@
+---
+Rumors Heard in Oakhurst: &1 !ruby/string:Nori::StringWithAttributes
+  str: Rumeurs entendues à Oakhurst
+  attributes: {}
+*1: *1
+Wilderness Encounters: &2 !ruby/string:Nori::StringWithAttributes
+  str: Rencontres du désert
+  attributes: {}
+*2: *2

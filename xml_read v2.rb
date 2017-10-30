@@ -1,8 +1,10 @@
-require 'nokogiri'
+# require 'nokogiri'
 require 'prettyprint'
-# require 'bing_translator'
+require 'bing_translator'
 # require 'yaml'
+require_relative 'lib/translate_cache'
 
+t_cache = TranslateCache.new
 file = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales 2\moduledb\DD TYP The Sunless Citadel.xml'
 
 doc = File.open( file ) { |f| Nokogiri::XML(f) }
@@ -13,12 +15,26 @@ data.each do |t|
   # p t.class
   next if t.class == Nokogiri::XML::Text
 
-  p t.name
-  p t.children.count
-  p t
+  if t.name == 'p'
+    if t.children.count > 1
+      puts 'Translating multiple p'
+    else
+      puts 'Translating single p'
+    end
+  elsif t.name == 'h'
+    puts 'Translating header'
+    p t_cache.translate( t.text )
+  elsif t.name = 'list'
+    puts 'Translating list'
+  end
+  # p t.name
+  # p t.children.count
+  # p t
 
   # t.add_next_sibling( t.dup )
 end
+
+t_cache.save_cache
 
 # File.write(file, doc.to_xml)
 
