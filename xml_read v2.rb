@@ -4,8 +4,9 @@ require 'bing_translator'
 # require 'yaml'
 require_relative 'lib/translate_cache'
 
+debug = true
 t_cache = TranslateCache.new
-file = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales 2\moduledb\DD TYP The Sunless Citadel.xml'
+file = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel.xml'
 
 doc = File.open( file ) { |f| Nokogiri::XML(f) }
 
@@ -18,13 +19,14 @@ data.each do |t|
   if t.name == 'p'
     if t.children.count > 1
       puts 'Translating multiple p'
+      p t.children
     else
-      puts 'Translating single p'
-      p t_cache.translate( t.text )
+      puts 'Translating single p' if debug
+      p t_cache.translate( t.text ) if debug
     end
   elsif t.name == 'h'
-    puts 'Translating header'
-    p t_cache.translate( t.text )
+    puts 'Translating header'  if debug
+    p t_cache.translate( t.text )  if debug
   elsif t.name = 'list'
     puts 'Translating list'
   end

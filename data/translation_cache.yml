@@ -39,3 +39,135 @@ Wilderness Encounters: &2 !ruby/string:Nori::StringWithAttributes
     furtivement hors de feuillage à proximité.
   attributes: {}
 *6: *6
+? Au milieu de la lobo tommy dEauprofonde, dans le quartier du château où avocats,
+  nobles et émissaires bataille avec word et contrat, se trouve une auberge pas tout
+  à fait comme les autres. Avant il y avait un château Ward ou même ce qui pourrait
+  être reconnu comme un ancêtre de la ville de splendeurs, il y avait un donjon et
+  dans ce donjon commence lhistoire du portail bâillant.
+: !ruby/string:Nori::StringWithAttributes
+  str: Au milieu de la lobo tommy dEauprofonde, dans le quartier du château où avocats,
+    nobles et émissaires bataille avec word et contrat, se trouve une auberge pas
+    tout à fait comme les autres. Avant il y avait un château Ward ou même ce qui
+    pourrait être reconnu comme un ancêtre de la ville de splendeurs, il y avait un
+    donjon et dans ce donjon commence lhistoire du portail bâillant.
+  attributes: {}
+? Dans les âges passés, lassistant puissant Halaster construit sa tour au pied du
+  Mont Eauprofonde et fouillé profondément dans les tunnels construits par les nains
+  et les drows en quête de toujours plus grande puissance magique. Halaster et ses
+  apprentis étendu des tunnels, qu'ils ont trouvé, déparasitage des nouveaux repaires
+  sous la surface pour des raisons de leurs propres. Dans le temps, les fouilles a
+  grandi dans le vaste labyrinthe connus aujourd'hui comme Undermountain, le plus
+  grand donjon dans lensemble des royaumes oubliés. Halaster, finalement disparu,
+  comme lont tous ses apprentis, mais limmense complexe il construisit demeure à ce
+  jour.
+: !ruby/string:Nori::StringWithAttributes
+  str: Dans les âges passés, lassistant puissant Halaster construit sa tour au pied
+    du Mont Eauprofonde et fouillé profondément dans les tunnels construits par les
+    nains et les drows en quête de toujours plus grande puissance magique. Halaster
+    et ses apprentis étendu des tunnels, qu'ils ont trouvé, déparasitage des nouveaux
+    repaires sous la surface pour des raisons de leurs propres. Dans le temps, les
+    fouilles a grandi dans le vaste labyrinthe connus aujourd'hui comme Undermountain,
+    le plus grand donjon dans lensemble des royaumes oubliés. Halaster, finalement
+    disparu, comme lont tous ses apprentis, mais limmense complexe il construisit
+    demeure à ce jour.
+  attributes: {}
+? Pour les années, les secrets de Undermountain resté cachés de la surface mondiale.
+  Tout le monde qui sont entrés dans ses salles nest pas rentré. Sa réputation comme
+  un piège mortel a progressé au point que les criminels à Eauprofonde qui ont été
+  condamnés à mort étaient force escorté dans le donjon et la gauche se débrouiller
+  par eux-mêmes.
+: !ruby/string:Nori::StringWithAttributes
+  str: Pour les années, les secrets de Undermountain resté cachés de la surface mondiale.
+    Tout le monde qui sont entrés dans ses salles nest pas rentré. Sa réputation comme
+    un piège mortel a progressé au point que les criminels à Eauprofonde qui ont été
+    condamnés à mort étaient force escorté dans le donjon et la gauche se débrouiller
+    par eux-mêmes.
+  attributes: {}
+? Tout cela a changé avec larrivée des deux hommes, un guerrier nommé Durnan et un
+  vaurien nommé Mirt. Le duo ont été les premiers aventuriers revenir de Undermountain,
+  chargé de richesses et les trésors magiques. Tandis que Mirt utilisé sa fortune
+  pour acheter une maison de maître, Durnan avait des plans différents. Durnan se
+  retire de laventure et a acheté le terrain sur lequel était assis le profond, large
+  bien qui a été la seule entrée connue pour le donjon. Autour de ce bien il construisit
+  une taverne et auberge qui sadresse aux aventuriers et ceux qui cherchent leurs
+  services, et il lappela le portail bâillant.
+: !ruby/string:Nori::StringWithAttributes
+  str: Tout cela a changé avec larrivée des deux hommes, un guerrier nommé Durnan
+    et un vaurien nommé Mirt. Le duo ont été les premiers aventuriers revenir de Undermountain,
+    chargé de richesses et les trésors magiques. Tandis que Mirt utilisé sa fortune
+    pour acheter une maison de maître, Durnan avait des plans différents. Durnan se
+    retire de laventure et a acheté le terrain sur lequel était assis le profond,
+    large bien qui a été la seule entrée connue pour le donjon. Autour de ce bien
+    il construisit une taverne et auberge qui sadresse aux aventuriers et ceux qui
+    cherchent leurs services, et il lappela le portail bâillant.
+  attributes: {}
+? Certains de la magie que Durnan pillée sur son incursion réussie dans Undermountain
+  lui accorda une durée de vie qui dépasse même celle dun elfe. Et Pendant des décennies
+  Durnan gauche fouillant Undermountain folk plus jeune. Encore un jour, quelque chose
+  attira retour. Jours dattente pour son retour triomphal du donjon sest tourné vers
+  les mois et les années puis. Depuis près dun siècle, citoyens dEauprofonde pensaient
+  lui est mort. Mais une nuit, une voix appela du puits. Peu dans un premier temps
+  estimé quil pourrait être Durnan, mais folk aussi longue durée de vie car il garant
+  il alors. Le portail bâillant avait passé entre les mains de ses ancêtres, mais
+  Durnan retourné avec assez de richesses pour eux à la retraite tranquillement. Durnan
+  prit sa place habituelle derrière le bar, a soulevé un toast à son propre retour
+  en toute sécurité et puis a commencé à desservir les clients comme sil navait jamais
+  quitté.
+: !ruby/string:Nori::StringWithAttributes
+  str: Certains de la magie que Durnan pillée sur son incursion réussie dans Undermountain
+    lui accorda une durée de vie qui dépasse même celle dun elfe. Et Pendant des décennies
+    Durnan gauche fouillant Undermountain folk plus jeune. Encore un jour, quelque
+    chose attira retour. Jours dattente pour son retour triomphal du donjon sest tourné
+    vers les mois et les années puis. Depuis près dun siècle, citoyens dEauprofonde
+    pensaient lui est mort. Mais une nuit, une voix appela du puits. Peu dans un premier
+    temps estimé quil pourrait être Durnan, mais folk aussi longue durée de vie car
+    il garant il alors. Le portail bâillant avait passé entre les mains de ses ancêtres,
+    mais Durnan retourné avec assez de richesses pour eux à la retraite tranquillement.
+    Durnan prit sa place habituelle derrière le bar, a soulevé un toast à son propre
+    retour en toute sécurité et puis a commencé à desservir les clients comme sil
+    navait jamais quitté.
+  attributes: {}
+? Aventuriers de travers Féérune et même dailleurs dans le grand span du multivers,
+  visitez le portail bâillant pour échanger des connaissances sur Undermountain et
+  autres donjons. La plupart des visiteurs sont contentent déchanger des histoires
+  de lâtre, mais parfois un groupe conduit par cupidité, ambition, ou désespoir paie
+  le péage à lentrée et descend du puits. La plupart ne survivre pas à faire le voyage
+  de retour, mais assez come back par les richesses et les récits daventures pour
+  tenter dautres groupes en tentant leur chance.
+: !ruby/string:Nori::StringWithAttributes
+  str: Aventuriers de travers Féérune et même dailleurs dans le grand span du multivers,
+    visitez le portail bâillant pour échanger des connaissances sur Undermountain
+    et autres donjons. La plupart des visiteurs sont contentent déchanger des histoires
+    de lâtre, mais parfois un groupe conduit par cupidité, ambition, ou désespoir
+    paie le péage à lentrée et descend du puits. La plupart ne survivre pas à faire
+    le voyage de retour, mais assez come back par les richesses et les récits daventures
+    pour tenter dautres groupes en tentant leur chance.
+  attributes: {}
+The Green Dragon Inn: &7 !ruby/string:Nori::StringWithAttributes
+  str: L’Auberge du Dragon vert
+  attributes: {}
+*7: *7
+? Le portail le bâillement nest pas la taverne seulement célèbre dans lhistoire de
+  D & D. Dans les tribunes de la ville libre de Greyhawk le Green Dragon Inn, qui
+  a été le point de départ pour certains des expéditions plus réussies à Château Greyhawk
+  et au-delà. Lendroit est bondé et envahi par la fumée. Les patrons parlent à voix
+  basse, et quiconque tenterait dentamer une conversation sans faire une intention
+  claire de payer peut sattendre à un accueil glacial. Paranoïa et suspicion sévir
+  ici, comme il sied à une ville libre qui se trouve à la croisée entre un empire
+  diable-hanté, un vaste domaine verrouillé dans la poigne de fer serré dun demi-Dieu
+  du mal et a éclaté, hôte chamailler des royaumes nominalement commis à la justice
+  et le bien-être général. Dans le monde battue, fatigué de Greyhawk, profit et pouvoir
+  primer sur lhéroïsme.
+: !ruby/string:Nori::StringWithAttributes
+  str: Le portail le bâillement nest pas la taverne seulement célèbre dans lhistoire
+    de D & D. Dans les tribunes de la ville libre de Greyhawk le Green Dragon Inn,
+    qui a été le point de départ pour certains des expéditions plus réussies à Château
+    Greyhawk et au-delà. Lendroit est bondé et envahi par la fumée. Les patrons parlent
+    à voix basse, et quiconque tenterait dentamer une conversation sans faire une
+    intention claire de payer peut sattendre à un accueil glacial. Paranoïa et suspicion
+    sévir ici, comme il sied à une ville libre qui se trouve à la croisée entre un
+    empire diable-hanté, un vaste domaine verrouillé dans la poigne de fer serré dun
+    demi-Dieu du mal et a éclaté, hôte chamailler des royaumes nominalement commis
+    à la justice et le bien-être général. Dans le monde battue, fatigué de Greyhawk,
+    profit et pouvoir primer sur lhéroïsme.
+  attributes: {}
