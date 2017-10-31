@@ -1,6 +1,7 @@
 require 'uri'
 require 'easy_translate'
 require 'openssl'
+require 'yaml'
 OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
 class TranslateCache
