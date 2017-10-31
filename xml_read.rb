@@ -2,7 +2,7 @@
 require 'bing_translator'
 require 'yaml'
 
-key = File.read('subscription.key')
+key = File.read('bing')
 translator = BingTranslator.new(key, skip_ssl_verify: true)
 file = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel.xml'
 translated_db = YAML.load_file('translation_cache.yml')
