@@ -7,14 +7,21 @@ require 'pp'
 
 debug = false
 t_cache = TranslateCache.new( debug )
-file = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales 2\moduledb\DD TYP The Sunless Citadel.xml'
+infile = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel - Copie.xml'
+outfile = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel.xml'
 
-doc = File.open( file ) { |f| Nokogiri::XML(f) }
+doc = File.open( infile ) { |f| Nokogiri::XML(f) }
 
 def add_translated_bloc( t_cache, bloc, debug )
   tb = bloc.dup
   tb.content = t_cache.translate( bloc.text )
   bloc.add_next_sibling( tb )
+end
+
+# Ajouter un bloc entre parenthèses à la fin du text
+def append_translated_bloc( t_cache, bloc )
+  translation = t_cache.translate( bloc.text )
+  bloc.content = "#{bloc.text} (#{translation})"
 end
 
 def translate_text_bloc( t_cache, text_bloc, debug )
@@ -39,11 +46,14 @@ def translate_text_bloc( t_cache, text_bloc, debug )
     puts 'Translating sub text' if debug
     p t if debug
     add_translated_bloc( t_cache, t, debug )
+
   elsif t.name == 'h'
     puts 'Translating header'  if debug
-    add_translated_bloc( t_cache, t, debug )
+    append_translated_bloc( t_cache, t )
+
   elsif t.name = 'list'
     puts 'Translating list' if debug
+    p t
   end
   # puts
 end
@@ -62,4 +72,4 @@ doc.at('encounter').xpath('category').each do |category|
 end
 
 t_cache.save_cache
-File.write(file + '.out', doc.to_xml)
+File.write(outfile, doc.to_xml)

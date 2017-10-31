@@ -464,3 +464,13 @@ The doors are wooden or stone.: &38 !ruby/string:Nori::StringWithAttributes
     des rats géants pour naviguer.
   attributes: {}
 *41: *41
+? 'The community closest to the Sunless Citadel is a village called Oakhurst. Most
+  of its 900 residents (including outlying farms) are human, with a sizable minority
+  of halflings and a scattering of other races. '
+: &42 !ruby/string:Nori::StringWithAttributes
+  str: 'La Communauté le plus proche de la citadelle Sunless est un village appelé
+    Oakhurst. La plupart de ses 900 habitants (y compris les fermes éloignées) est
+    des êtres humaine, avec une minorité importante de halfelins et une dispersion
+    des autres races. '
+  attributes: {}
+*42: *42

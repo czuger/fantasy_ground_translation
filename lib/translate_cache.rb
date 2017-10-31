@@ -1,3 +1,5 @@
+require 'uri'
+
 class TranslateCache
 
   CACHE_FILEPATH = 'data/translation_cache.yml'
@@ -15,16 +17,20 @@ class TranslateCache
   def translate( data )
     if @cache.has_key?( data )
       puts "Cache hit for #{data}" if @debug
-      return @cache[ data ]
+      return replace_odd_characters( @cache[ data ] )
     end
 
     translation = @translator.translate( data, to: 'fr' )
     @cache[ data ] = translation
-    @cache[ translation ] = translation
+    @cache[ translation ] = replace_odd_characters( translation )
   end
 
   def save_cache()
     File.write( CACHE_FILEPATH, @cache.to_yaml)
+  end
+
+  def replace_odd_characters( string )
+    string.gsub( '’', "'" )
   end
 
 end
