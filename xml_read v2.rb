@@ -7,7 +7,7 @@ require 'pp'
 
 debug = false
 t_cache = TranslateCache.new( debug )
-infile = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel - Copie.xml'
+infile = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel.xml'
 outfile = 'C:\Program Files (x86)\Fantasy Grounds\Datas\campaigns\Tales\moduledb\DD TYP The Sunless Citadel.xml'
 
 doc = File.open( infile ) { |f| Nokogiri::XML(f) }

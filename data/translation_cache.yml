@@ -548,3 +548,857 @@ The doors are wooden or stone.: &38 !ruby/string:Nori::StringWithAttributes
   souvient la dernière fois que n'importe qui, en dehors de Talgen et de Sharwyn,
   posé des questions sur la citadelle sans soleil. Environ treize ans, un homme sombre
   nommé Belak arrêté, et il avait une très grande grenouille pour animaux de compagnie
+? The community closest to the Sunless Citadel is a village called Oakhurst. Most
+  of its 900 residents (including outlying farms) are human, with a sizable minority
+  of halflings and a scattering of other races. (La Communauté le plus proche de la
+  citadelle Sunless est un village appelé Oakhurst. La plupart de ses 900 habitants
+  (y compris les fermes éloignées) est des êtres humaine, avec une minorité importante
+  de halfelins et une dispersion des autres races. )
+: !ruby/string:Nori::StringWithAttributes The community closest to the Sunless Citadel
+  is a village called Oakhurst. Most of its 900 residents (including outlying farms)
+  are human, with a sizable minority of halflings and a scattering of other races.
+  (La Communauté le plus proche de la citadelle Sunless est un village appelé Oakhurst.
+  La plupart de ses 900 habitants (y compris les fermes éloignées) est des êtres humaine,
+  avec une minorité importante de halfelins et une dispersion des autres races. )
+? 'Significant locations in Oakhurst, and the people to be found within them, include
+  the following: (Lieux importants à Oakhurst et les gens se trouvent en leur sein,
+  est les suivants :)'
+: &49 !ruby/string:Nori::StringWithAttributes
+  str: 'Lieux importants à Oakhurst et les gens se trouvent en leur sein, est les
+    suivants : (Lieux importants à Oakhurst et les gens se trouvent en leur sein,
+    est les suivants  :)'
+  attributes: {}
+*49: !ruby/string:Nori::StringWithAttributes 'Lieux importants à Oakhurst et les gens
+  se trouvent en leur sein, est les suivants : (Lieux importants à Oakhurst et les
+  gens se trouvent en leur sein, est les suivants  :)'
+'Village Hall. (Salle des fêtes. ) ': !ruby/string:Nori::StringWithAttributes 'Village
+  Hall. (Salle des fêtes. ) '
+? The center of government in Oakhurst includes the office of Mayor Vurnor Leng, a
+  male human noble. (Le centre du gouvernement à Oakhurst comprend le Bureau du maire
+  Vurnor Leng, un noble humain mâle.)
+: &50 !ruby/string:Nori::StringWithAttributes
+  str: Le centre du gouvernement à Oakhurst comprend le Bureau du maire Vurnor Leng,
+    un noble humain mâle. (Le centre du gouvernement à Oakhurst comprend le Bureau
+    du maire Vurnor Leng, un noble humain mâle.)
+  attributes: {}
+*50: !ruby/string:Nori::StringWithAttributes Le centre du gouvernement à Oakhurst
+  comprend le Bureau du maire Vurnor Leng, un noble humain mâle. (Le centre du gouvernement
+  à Oakhurst comprend le Bureau du maire Vurnor Leng, un noble humain mâle.)
+'General Store. (Magasin général. ) ': !ruby/string:Nori::StringWithAttributes 'General
+  Store. (Magasin général. ) '
+? The village's main source for supplies and merchandise is the general store, owned
+  and operated by Kerowyn Hucrele, a female human noble. (Source principale du village
+  pour les fournitures et marchandises est le magasin général, détenu et exploité
+  par Kerowyn Hucrele, un noble humain femelle.)
+: !ruby/string:Nori::StringWithAttributes The village's main source for supplies and
+  merchandise is the general store, owned and operated by Kerowyn Hucrele, a female
+  human noble. (Source principale du village pour les fournitures et marchandises
+  est le magasin général, détenu et exploité par Kerowyn Hucrele, un noble humain
+  femelle.)
+'Shrine. (Sanctuaire. ) ': !ruby/string:Nori::StringWithAttributes 'Shrine. (Sanctuaire.
+  ) '
+? Advice, information, and healing are among the services dispensed at the village's
+  shrine. It is maintained by Dem "Corkie" Nackle, a female gnome priest of Pelor.
+  (Conseils, informations et la guérison sont parmi les services dispensés au sanctuaire
+  du village. Il est maintenu par Dem « Corkie » Nackle, un prêtre gnome femelle de
+  Pelor.)
+: !ruby/string:Nori::StringWithAttributes Advice, information, and healing are among
+  the services dispensed at the village's shrine. It is maintained by Dem "Corkie"
+  Nackle, a female gnome priest of Pelor. (Conseils, informations et la guérison sont
+  parmi les services dispensés au sanctuaire du village. Il est maintenu par Dem «
+  Corkie » Nackle, un prêtre gnome femelle de Pelor.)
+'Jail. (Prison. ) ': &51 !ruby/string:Nori::StringWithAttributes
+  str: 'Prison. (La prison). '
+  attributes: {}
+*51: !ruby/string:Nori::StringWithAttributes 'Prison. (La prison). '
+? Next to the village hall is a stout building where miscreants serve their sentences.
+  Oakhurst's constable is Felosial, a female half-elf veteran. She commands a force
+  of sixteen guards and four scouts who keep the village safe. (À côté du village
+  hall est un bâtiment solide où les mécréants purgent leur peine. L'agent de Oakhurst
+  est Felosial, des combattantes demi-elfe. Elle commande une force de seize gardiens
+  et quatre scouts qui protègent le village.)
+: !ruby/string:Nori::StringWithAttributes Next to the village hall is a stout building
+  where miscreants serve their sentences. Oakhurst's constable is Felosial, a female
+  half-elf veteran. She commands a force of sixteen guards and four scouts who keep
+  the village safe. (À côté du village hall est un bâtiment solide où les mécréants
+  purgent leur peine. L'agent de Oakhurst est Felosial, des combattantes demi-elfe.
+  Elle commande une force de seize gardiens et quatre scouts qui protègent le village.)
+'Blacksmith. (Forgeron. ) ': !ruby/string:Nori::StringWithAttributes 'Blacksmith.
+  (Forgeron. ) '
+? Repairing and forging arms and armor is the job of the village smithy, Rurik Lutgehr,
+  a male dwarf commoner. (Réparation et forger des armes et des armures sont le travail
+  de la forge du village, Lutgehr de Rurik, un mâle nain roturier.)
+: &52 !ruby/string:Nori::StringWithAttributes
+  str: Réparation et forger des armes et des armures sont le travail de la forge du
+    village, Lutgehr de Rurik, un mâle nain roturier. (Réparation et forger des armes
+    et des armures sont le travail de la forge du village, Lutgehr de Rurik, roturier
+    d’ONU mâle nain.)
+  attributes: {}
+*52: !ruby/string:Nori::StringWithAttributes Réparation et forger des armes et des
+  armures sont le travail de la forge du village, Lutgehr de Rurik, un mâle nain roturier.
+  (Réparation et forger des armes et des armures sont le travail de la forge du village,
+  Lutgehr de Rurik, roturier d'ONU mâle nain.)
+'Ol'' Boar Inn. (Ol '' Boar Inn. ) ': &53 !ruby/string:Nori::StringWithAttributes
+  str: 'Ol '' Boar Inn. (Ol '' Boar Inn.) '
+  attributes: {}
+*53: !ruby/string:Nori::StringWithAttributes 'Ol '' Boar Inn. (Ol '' Boar Inn.) '
+? Garon, a male human commoner, is the owner and barkeep of the Ol' Boar Inn. He serves
+  food and drink, and the place has a few rooms that visitors can rent. (Garon, un
+  roturier humain masculin, est le propriétaire et le barman de l'ol ' Boar Inn. Il
+  sert de nourriture et boisson, et le lieu a quelques chambres qui peuvent louer
+  des visiteurs.)
+: &54 !ruby/string:Nori::StringWithAttributes
+  str: Garon, un roturier humain masculin, est le propriétaire et le barman de l’ol
+    ' Boar Inn. Il sert de nourriture et boisson, et le lieu a quelques chambres qui
+    peuvent louer des visiteurs. (Garon, un roturier humain masculin, est le propriétaire
+    et le barman de ol ' Boar Inn. Il sert de nourriture et boisson, et le lieu a
+    quelques chambres qui peuvent louer des visiteurs.)
+  attributes: {}
+*54: !ruby/string:Nori::StringWithAttributes Garon, un roturier humain masculin, est
+  le propriétaire et le barman de l'ol ' Boar Inn. Il sert de nourriture et boisson,
+  et le lieu a quelques chambres qui peuvent louer des visiteurs. (Garon, un roturier
+  humain masculin, est le propriétaire et le barman de ol ' Boar Inn. Il sert de nourriture
+  et boisson, et le lieu a quelques chambres qui peuvent louer des visiteurs.)
+Rumors Heard in Oakhurst (Rumeurs entendues à Oakhurst): !ruby/string:Nori::StringWithAttributes Rumors
+  Heard in Oakhurst (Rumeurs entendues à Oakhurst)
+? Player characters can discover the following additional information while spending
+  time in the local tavern, or through asking the right questions of the locals. (Personnages
+  non-joueurs peuvent découvrir les renseignements additionnels suivants tout en passer
+  du temps dans la taverne locale, ou par le biais de poser les bonnes questions de
+  ses habitants.)
+: !ruby/string:Nori::StringWithAttributes Player characters can discover the following
+  additional information while spending time in the local tavern, or through asking
+  the right questions of the locals. (Personnages non-joueurs peuvent découvrir les
+  renseignements additionnels suivants tout en passer du temps dans la taverne locale,
+  ou par le biais de poser les bonnes questions de ses habitants.)
+? No one knows for sure what the Sunless Citadel once was, but legends hint that it
+  served as the retreat of an ancient dragon cult. (Personne ne sait avec certitude
+  ce qui la citadelle Sunless était autrefois, mais le soupçon de légendes qu'il servit
+  à la retraite d'un culte ancien dragon.)
+: !ruby/string:Nori::StringWithAttributes No one knows for sure what the Sunless Citadel
+  once was, but legends hint that it served as the retreat of an ancient dragon cult.
+  (Personne ne sait avec certitude ce qui la citadelle Sunless était autrefois, mais
+  le soupçon de légendes qu'il servit à la retraite d'un culte ancien dragon.)
+? The Old Road skirts the Ashen Plain, a lifeless area. A character who succeeds on
+  a DC 15 Intelligence (History) check knows that the desolation is attributed to
+  the long-ago rampage of a dragon named Ashardalon. A few locals also know this fact.
+  (La vieille route longe la plaine Ashen, un quartier sans vie. Un personnage qui
+  réussit lors d'un contrôle DC 15 Intelligence (histoire) sait que la désolation
+  est attribuée à la rampage long-il y a d'un dragon nommé Ashardalon. Quelques gens
+  du coin savent aussi ce fait.)
+: !ruby/string:Nori::StringWithAttributes The Old Road skirts the Ashen Plain, a lifeless
+  area. A character who succeeds on a DC 15 Intelligence (History) check knows that
+  the desolation is attributed to the long-ago rampage of a dragon named Ashardalon.
+  A few locals also know this fact. (La vieille route longe la plaine Ashen, un quartier
+  sans vie. Un personnage qui réussit lors d'un contrôle DC 15 Intelligence (histoire)
+  sait que la désolation est attribuée à la rampage long-il y a d'un dragon nommé
+  Ashardalon. Quelques gens du coin savent aussi ce fait.)
+? Cattle herders don't graze their stock too far afield these days. They're frightened
+  by stories of new monsters that maraud by night. From time to time, cattle and people
+  who have gone out alone at night have been found dead the next day, bearing dozens
+  of needle-like wounds. No one has seen the creatures that cause this mayhem, nor
+  do they leave a discernible trail. (Les éleveurs de bovins ne paissent leur stock
+  trop loin ces jours-ci. Ils sont effrayés par les histoires de nouveaux monstres
+  qui maraud par nuit. De temps à autre, bétail et ceux qui est partis seul dans la
+  nuit a retrouvé mort le lendemain, portant des dizaines de plaies aciculaires. Personne
+  n'a vu les créatures qui causent ce grabuge, ni qu'ils laissent une traînée visible.)
+: !ruby/string:Nori::StringWithAttributes Cattle herders don't graze their stock too
+  far afield these days. They're frightened by stories of new monsters that maraud
+  by night. From time to time, cattle and people who have gone out alone at night
+  have been found dead the next day, bearing dozens of needle-like wounds. No one
+  has seen the creatures that cause this mayhem, nor do they leave a discernible trail.
+  (Les éleveurs de bovins ne paissent leur stock trop loin ces jours-ci. Ils sont
+  effrayés par les histoires de nouveaux monstres qui maraud par nuit. De temps à
+  autre, bétail et ceux qui est partis seul dans la nuit a retrouvé mort le lendemain,
+  portant des dizaines de plaies aciculaires. Personne n'a vu les créatures qui causent
+  ce grabuge, ni qu'ils laissent une traînée visible.)
+? The missing adventurers include a fighter (Talgen Hucrele), a wizard (Sharwyn Hucrele),
+  a paladin of Pelor (Sir Braford), and a ranger (Karakas). Sir Braford was not a
+  local, and he had a magic sword called Shatterspike. (Les aventuriers manquantes
+  comprennent un combattant (Talgen Hucrele), un Assistant (Sharwyn Hucrele), un paladin
+  de Pelor (Sir Braford) et un ranger (Karakas). Sir Braford n'était pas un local,
+  et il avait une épée magique appelée Shatterspike.)
+: !ruby/string:Nori::StringWithAttributes The missing adventurers include a fighter
+  (Talgen Hucrele), a wizard (Sharwyn Hucrele), a paladin of Pelor (Sir Braford),
+  and a ranger (Karakas). Sir Braford was not a local, and he had a magic sword called
+  Shatterspike. (Les aventuriers manquantes comprennent un combattant (Talgen Hucrele),
+  un Assistant (Sharwyn Hucrele), un paladin de Pelor (Sir Braford) et un ranger (Karakas).
+  Sir Braford n'était pas un local, et il avait une épée magique appelée Shatterspike.)
+? Sometimes the goblins offer a different apple at mid winter. This apple is corpse-white
+  and poisonous, even to the touch. No samples of either apple are to be had. (Les
+  Korrigans proposent parfois une pomme différente au milieu de l'hiver. Cette pomme
+  est cadavre-blanc et toxique, même au toucher. Aucun échantillon de soit apple n'est
+  à avoir.)
+: !ruby/string:Nori::StringWithAttributes Sometimes the goblins offer a different
+  apple at mid winter. This apple is corpse-white and poisonous, even to the touch.
+  No samples of either apple are to be had. (Les Korrigans proposent parfois une pomme
+  différente au milieu de l'hiver. Cette pomme est cadavre-blanc et toxique, même
+  au toucher. Aucun échantillon de soit apple n'est à avoir.)
+? Garon, the barkeep of the Ol' Boar Inn, remembers the last time anyone, aside from
+  Talgen and Sharwyn, asked questions about the Sunless Citadel. About thirteen years
+  ago, a grim human named Belak stopped by, and he had a very large pet frog (Garon,
+  le barman de l'ol ' Boar Inn, souvient la dernière fois que n'importe qui, en dehors
+  de Talgen et de Sharwyn, posé des questions sur la citadelle sans soleil. Environ
+  treize ans, un homme sombre nommé Belak arrêté, et il avait une très grande grenouille
+  pour animaux de compagnie)
+: !ruby/string:Nori::StringWithAttributes Garon, the barkeep of the Ol' Boar Inn,
+  remembers the last time anyone, aside from Talgen and Sharwyn, asked questions about
+  the Sunless Citadel. About thirteen years ago, a grim human named Belak stopped
+  by, and he had a very large pet frog (Garon, le barman de l'ol ' Boar Inn, souvient
+  la dernière fois que n'importe qui, en dehors de Talgen et de Sharwyn, posé des
+  questions sur la citadelle sans soleil. Environ treize ans, un homme sombre nommé
+  Belak arrêté, et il avait une très grande grenouille pour animaux de compagnie)
+Wilderness Encounters (Rencontres du désert): !ruby/string:Nori::StringWithAttributes Wilderness
+  Encounters (Rencontres du désert)
+? If the characters are anywhere between Oakhurst and the Sunless Citadel at night,
+  four twig blights attack the party. The blights attack stealthily from out of nearby
+  foliage. (Si les caractères sont n'importe où entre Oakhurst et la citadelle Sunless
+  pendant la nuit, quatre rameaux rouille attaque la partie. La rouille attaque furtivement
+  hors de feuillage à proximité.)
+: &55 !ruby/string:Nori::StringWithAttributes
+  str: Si les caractères sont n’importe où entre Oakhurst et la citadelle Sunless
+    pendant la nuit, quatre rameaux rouille attaque la partie. La rouille attaque
+    furtivement hors de feuillage à proximité. (Si les caractères sont n’importe où
+    entre Oakhurst et la citadelle Sunless pendant la nuit, quatre rameaux rouille
+    attaque la partie. La rouille attaque furtivement hors de f.a. à proximité.)
+  attributes: {}
+*55: !ruby/string:Nori::StringWithAttributes Si les caractères sont n'importe où entre
+  Oakhurst et la citadelle Sunless pendant la nuit, quatre rameaux rouille attaque
+  la partie. La rouille attaque furtivement hors de feuillage à proximité. (Si les
+  caractères sont n'importe où entre Oakhurst et la citadelle Sunless pendant la nuit,
+  quatre rameaux rouille attaque la partie. La rouille attaque furtivement hors de
+  f.a. à proximité.)
+Sunless Citadel Overview: &56 !ruby/string:Nori::StringWithAttributes
+  str: Vue d’ensemble de la citadelle sans soleil
+  attributes: {}
+*56: !ruby/string:Nori::StringWithAttributes Vue d'ensemble de la citadelle sans soleil
+? 'A dragon cult that valued privacy and defense built the Sunless Citadel on the
+  surface long ago. All record of the cult''s name has vanished, though various sources
+  believe that it was associated with the dragon Ashardalon. The cataclysm that killed
+  the cult members sank the fortress at the same time. Because of residual enchantments,
+  much of the structure survived its descent into the earth. With the cultists dead,
+  goblins and other creatures moved in, and they have survived here for hundreds of
+  years. '
+: &57 !ruby/string:Nori::StringWithAttributes
+  str: 'Un culte de dragon qui a une valeur de la vie privée et la défense construit
+    la citadelle Sunless sur la surface il y a longtemps. Tous les enregistrement
+    de nom de la secte a disparu, même si diverses sources estiment qu’il était associé
+    avec le dragon Ashardalon. Le cataclysme qui a tué les membres de la secte a coulé
+    la forteresse en même temps. En raison des enchantements résiduels, une grande
+    partie de la structure dans le deuil sa descente dans la terre. Avec les morts
+    de sectateurs, lutins et autres créatures s’installe en, et ils ont survécu ici
+    depuis des centaines d’années. '
+  attributes: {}
+*57: !ruby/string:Nori::StringWithAttributes 'Un culte de dragon qui a une valeur
+  de la vie privée et la défense construit la citadelle Sunless sur la surface il
+  y a longtemps. Tous les enregistrement de nom de la secte a disparu, même si diverses
+  sources estiment qu''il était associé avec le dragon Ashardalon. Le cataclysme qui
+  a tué les membres de la secte a coulé la forteresse en même temps. En raison des
+  enchantements résiduels, une grande partie de la structure dans le deuil sa descente
+  dans la terre. Avec les morts de sectateurs, lutins et autres créatures s''installe
+  en, et ils ont survécu ici depuis des centaines d''années. '
+? The goblins, which belong to the Durbuluk tribe ("Dominator" in Goblin), once patrolled
+  the area around the ravine to rob passers-by. But now, with the Old Road having
+  fallen out of use, the goblins rarely pay much attention to this entrance anymore.
+  Also, a tribe of kobolds has recently moved in to challenge the goblins' ownership
+  of the fortress. Both groups are skirmishing as they vie for control, and they're
+  not overly concerned about the possibility of intruders. Thus, the cleft offers
+  the characters a good opportunity to gain entry to the dungeon without attracting
+  attention. (The missing party that came here before did much the same; the rope
+  left tied to the pillar near the ravine is theirs.)
+: &58 !ruby/string:Nori::StringWithAttributes
+  str: Les gobelins, qui appartiennent à la tribu de Durbuluk (« Dominator » dans
+    Goblin), une fois patrouillent le secteur autour du ravin de voler les passants.
+    Mais maintenant, avec la vieille route étant tombé hors d’usage, les gobelins
+    rarement beaucoup d’attention à cette entrée plus. En outre, une tribu des kobolds
+    a récemment emménagé de contester la propriété des Gobelins de la forteresse.
+    Les deux groupes sont escarmouches qu’ils rivalisent pour le contrôle, et ils
+    ne sont pas excessivement préoccupés par la possibilité d’intrus. Ainsi, la fente
+    offre les caractères une bonne occasion d’entrer dans le donjon sans attirer l’attention.
+    (La partie manquante qui sont venus ici avant tout a fait, la corde gauche liée
+    à la borne près du ravin est le leur.)
+  attributes: {}
+*58: !ruby/string:Nori::StringWithAttributes Les gobelins, qui appartiennent à la
+  tribu de Durbuluk (« Dominator » dans Goblin), une fois patrouillent le secteur
+  autour du ravin de voler les passants. Mais maintenant, avec la vieille route étant
+  tombé hors d'usage, les gobelins rarement beaucoup d'attention à cette entrée plus.
+  En outre, une tribu des kobolds a récemment emménagé de contester la propriété des
+  Gobelins de la forteresse. Les deux groupes sont escarmouches qu'ils rivalisent
+  pour le contrôle, et ils ne sont pas excessivement préoccupés par la possibilité
+  d'intrus. Ainsi, la fente offre les caractères une bonne occasion d'entrer dans
+  le donjon sans attirer l'attention. (La partie manquante qui sont venus ici avant
+  tout a fait, la corde gauche liée à la borne près du ravin est le leur.)
+? Though the kobolds (areas 13-24) and the goblins (areas 31-41) claim the Sunless
+  Citadel as their property, they've never visited all its chambers. They avoid entering
+  the most secluded parts of the grove level. In the past, they feared that the hidden
+  grove was haunted. With the arrival of Belak the Outcast twelve years ago, that
+  belief is vindicated. He orders the goblins to distribute the midsummer fruit each
+  year, and the goblins obey him out of fear.
+: &59 !ruby/string:Nori::StringWithAttributes
+  str: Si les kobolds (zones 13-24) et les gobelins (zones 31-41) revendiquent la
+    citadelle Sunless comme leur propriété, ils n’ont jamais visité toutes ses chambres.
+    Ils évitent d’entrer dans les parties plus isolées du niveau grove. Dans le passé,
+    ils craignaient que le bosquet caché était hanté. Avec l’arrivée de Belak le proscrit,
+    il y a douze ans, cette croyance est justifiée. Il ordonne les Gobelins à distribuer
+    le songe fruits chaque année, et les Gobelins qui lui obéissent par crainte.
+  attributes: {}
+*59: !ruby/string:Nori::StringWithAttributes Si les kobolds (zones 13-24) et les gobelins
+  (zones 31-41) revendiquent la citadelle Sunless comme leur propriété, ils n'ont
+  jamais visité toutes ses chambres. Ils évitent d'entrer dans les parties plus isolées
+  du niveau grove. Dans le passé, ils craignaient que le bosquet caché était hanté.
+  Avec l'arrivée de Belak le proscrit, il y a douze ans, cette croyance est justifiée.
+  Il ordonne les Gobelins à distribuer le songe fruits chaque année, et les Gobelins
+  qui lui obéissent par crainte.
+'Monsters on Alert. ': &60 !ruby/string:Nori::StringWithAttributes
+  str: 'Monstres en état d’alerte. '
+  attributes: {}
+*60: !ruby/string:Nori::StringWithAttributes 'Monstres en état d''alerte. '
+? The kobolds and the goblins respond similarly if attacked. Intruders who fall back
+  to take a long rest before dealing with the leaders of an attacked community allow
+  the creatures time to make preparations. Alerted monsters reinforce cleared rooms
+  with forces previously stationed in other rooms. For example, three kobolds from
+  one area 16 could be stationed in area 15 with orders to set an ambush for returning
+  invaders. Or, four goblins from one area 36 could be redeployed to area 32 to guard
+  against another intrusion. Keep track of such changes, so that the characters don't
+  encounter the same kobolds or goblins twice.
+: &61 !ruby/string:Nori::StringWithAttributes
+  str: Les kobolds et les gobelins répondent de la même façon s’il est attaqué. Les
+    intrus qui sont replier pour prendre un long repos avant d’aborder avec les dirigeants
+    d’une communauté attaquée permettent que les créatures du temps à faire des préparatifs.
+    Monstres a alerté renforcent défrichées chambres avec forces stationnées auparavant
+    dans d’autres pièces. Par exemple, trois kobolds d’une zone 16 pourraient être
+    stationnées en zone 15 avec l’ordre de tendu une embuscade au retour des envahisseurs.
+    Ou, quatre lutins d’un secteur 36 pourraient être redéployées vers zone 32 pour
+    se prémunir contre une autre intrusion. Garder une trace de ces changements, afin
+    que les caractères ne rencontrent les kobolds et les gobelins même deux fois.
+  attributes: {}
+*61: !ruby/string:Nori::StringWithAttributes Les kobolds et les gobelins répondent
+  de la même façon s'il est attaqué. Les intrus qui sont replier pour prendre un long
+  repos avant d'aborder avec les dirigeants d'une communauté attaquée permettent que
+  les créatures du temps à faire des préparatifs. Monstres a alerté renforcent défrichées
+  chambres avec forces stationnées auparavant dans d'autres pièces. Par exemple, trois
+  kobolds d'une zone 16 pourraient être stationnées en zone 15 avec l'ordre de tendu
+  une embuscade au retour des envahisseurs. Ou, quatre lutins d'un secteur 36 pourraient
+  être redéployées vers zone 32 pour se prémunir contre une autre intrusion. Garder
+  une trace de ces changements, afin que les caractères ne rencontrent les kobolds
+  et les gobelins même deux fois.
+'Random Treasure. ': &62 !ruby/string:Nori::StringWithAttributes
+  str: 'Trésor aléatoire. '
+  attributes: {}
+*62: !ruby/string:Nori::StringWithAttributes 'Trésor aléatoire. '
+Each regular kobold and goblin is likely to have 2d10 sp, perhaps in the form of various coins and crude jewelry.: &63 !ruby/string:Nori::StringWithAttributes
+  str: Chaque kobold ordinaire et le gobelin sont susceptible d’avoir 2d 10 sp, peut-être
+    sous la forme de diverses pièces et bijoux brut.
+  attributes: {}
+*63: !ruby/string:Nori::StringWithAttributes Chaque kobold ordinaire et le gobelin
+  sont susceptible d'avoir 2d 10 sp, peut-être sous la forme de diverses pièces et
+  bijoux brut.
+? See the old Dragon from his throne Sink with enormous ruin down! (Voir le vieux
+  Dragon trône son évier avec énorme ruine vers le bas !)
+: !ruby/string:Nori::StringWithAttributes See the old Dragon from his throne Sink
+  with enormous ruin down! (Voir le vieux Dragon trône son évier avec énorme ruine
+  vers le bas !)
+"- Hymn (-Hymne)": &64 !ruby/string:Nori::StringWithAttributes
+  str: "-Hymne (-hymne)"
+  attributes: {}
+*64: !ruby/string:Nori::StringWithAttributes "-Hymne (-hymne)"
+? Once the characters are ready to leave Oakhurst, the adventure truly begins. The
+  overgrown Old Road winds through rocky downs, near stands of old-growth oak, and
+  past abandoned farms. It is 7 miles from Oakhurst to the Sunless Citadel. (Une fois
+  que les personnages sont prêts à quitter Oakhurst, l'aventure commence vraiment.
+  L'ancienne friche route serpente à travers de rocky downs, près de peuplements de
+  chêne anciennes et passé des fermes abandonnées. C'est à 7 milles de Oakhurst à
+  la citadelle sans soleil.)
+: !ruby/string:Nori::StringWithAttributes Once the characters are ready to leave Oakhurst,
+  the adventure truly begins. The overgrown Old Road winds through rocky downs, near
+  stands of old-growth oak, and past abandoned farms. It is 7 miles from Oakhurst
+  to the Sunless Citadel. (Une fois que les personnages sont prêts à quitter Oakhurst,
+  l'aventure commence vraiment. L'ancienne friche route serpente à travers de rocky
+  downs, près de peuplements de chêne anciennes et passé des fermes abandonnées. C'est
+  à 7 milles de Oakhurst à la citadelle sans soleil.)
+? L'ancienne route passe à l'est d'un ravin étroit. À l'approche plus proche de la
+  route la fente, plusieurs piliers brisés jut de la terre où le ravin s'élargit.
+  Deux piliers se tiennent droites, mais plus maigre au sommet de la terre en pente.
+  D'autres sont brisés, et plusieurs sont apparemment tombés dans les profondeurs
+  sombres. Quelques piliers similaires sont visibles sur le côté opposé du ravin.
+: !ruby/string:Nori::StringWithAttributes L'ancienne route passe à l'est d'un ravin
+  étroit. À l'approche plus proche de la route la fente, plusieurs piliers brisés
+  jut de la terre où le ravin s'élargit. Deux piliers se tiennent droites, mais plus
+  maigre au sommet de la terre en pente. D'autres sont brisés, et plusieurs sont apparemment
+  tombés dans les profondeurs sombres. Quelques piliers similaires sont visibles sur
+  le côté opposé du ravin.
+? The ravine runs for several miles in either direction, with an average depth and
+  width of 30 feet. At the point where it most closely intersects the Old Road, it
+  widens to 40 feet. (Le ravin s'étend sur plusieurs milles dans les deux sens, avec
+  une profondeur moyenne et 30 pieds de largeur. Au point où elle coupe plus étroitement
+  la vieille route, elle s'étend à 40 pieds.)
+: !ruby/string:Nori::StringWithAttributes The ravine runs for several miles in either
+  direction, with an average depth and width of 30 feet. At the point where it most
+  closely intersects the Old Road, it widens to 40 feet. (Le ravin s'étend sur plusieurs
+  milles dans les deux sens, avec une profondeur moyenne et 30 pieds de largeur. Au
+  point où elle coupe plus étroitement la vieille route, elle s'étend à 40 pieds.)
+'Investigating. (Enquête sur. ) ': !ruby/string:Nori::StringWithAttributes 'Investigating.
+  (Enquête sur. ) '
+? The pillars are worn and broken, and graffiti in the Dwarvish alphabet covers most
+  of them. Characters who know Goblin (after translating the letters from Dwarvish)
+  recognize the inscriptions as warnings and threats against potential trespassers.
+  (Les piliers sont portés et brisés, et graffiti en alphabet NANIEN couvre la majeure
+  partie d'entre eux. Caractères qui connaissez gobelin (après traduction des lettres
+  de NANIEN) reconnaissent les inscriptions comme des avertissements et des menaces
+  contre les intrus potentiels.)
+: !ruby/string:Nori::StringWithAttributes The pillars are worn and broken, and graffiti
+  in the Dwarvish alphabet covers most of them. Characters who know Goblin (after
+  translating the letters from Dwarvish) recognize the inscriptions as warnings and
+  threats against potential trespassers. (Les piliers sont portés et brisés, et graffiti
+  en alphabet NANIEN couvre la majeure partie d'entre eux. Caractères qui connaissez
+  gobelin (après traduction des lettres de NANIEN) reconnaissent les inscriptions
+  comme des avertissements et des menaces contre les intrus potentiels.)
+? A successful DC 10 Intelligence (Investigation) or Wisdom (Survival) check reveals
+  that the area in and around the pillars has hosted many small campfires, some of
+  as recent as a month ago. Someone went to some effort to hide the evidence of the
+  camps from casual scrutiny. (Un succès DC 10 Intelligence (enquête) ou un contrôle
+  de la sagesse (survie) révèle que le secteur dans et autour des piliers a accueilli
+  de nombreux petits feux de camp, certains des plus récents comme il y a un mois.
+  Quelqu'un est allé à quelques efforts pour cacher les preuves des camps des regards
+  occasionnels.)
+: !ruby/string:Nori::StringWithAttributes A successful DC 10 Intelligence (Investigation)
+  or Wisdom (Survival) check reveals that the area in and around the pillars has hosted
+  many small campfires, some of as recent as a month ago. Someone went to some effort
+  to hide the evidence of the camps from casual scrutiny. (Un succès DC 10 Intelligence
+  (enquête) ou un contrôle de la sagesse (survie) révèle que le secteur dans et autour
+  des piliers a accueilli de nombreux petits feux de camp, certains des plus récents
+  comme il y a un mois. Quelqu'un est allé à quelques efforts pour cacher les preuves
+  des camps des regards occasionnels.)
+'Descending. (Par ordre décroissant. ) ': !ruby/string:Nori::StringWithAttributes 'Descending.
+  (Par ordre décroissant. ) '
+? The rope tied to one of the leaning pillars hangs down into the darkness of the
+  ravine. Judging by its good condition, the rope couldn't have been tied there any
+  longer than two or three weeks ago. From the edge of the ravine, older and weathered
+  handholds and footholds can be seen carved into the cliff face. These are goblin-carved.
+  (La corde attachés à l'un des piliers penchée se bloque dans les ténèbres de la
+  ravine. À en juger par son bon état, la corde ne pouvait pas avoir été liée il plus
+  longtemps que deux ou trois semaines. Du bord du ravin, points d'ancrage et les
+  poignées anciennes et patinées voit sculptées dans la falaise. Voici les gobelin
+  sculptés.)
+: &65 !ruby/string:Nori::StringWithAttributes
+  str: La corde attachés à l’un des piliers penchée se bloque dans les ténèbres de
+    la ravine. À en juger par son bon état, la corde ne pouvait pas avoir été liée
+    il plus longtemps que deux ou trois semaines. Du bord du ravin, points d’ancrage
+    et les poignées anciennes et patinées voit sculptées dans la falaise. Voici les
+    gobelin sculptés. (La corde attachés à l'un des piliers notamment se bloque dans
+    les ténèbres de la ravine. À en juger par son bon état, la corde ne optative pas
+    avoir été liée il plus longtemps que deux ou trois semaines. Du bord du ravin,
+    points d’ancrage et les poignées anciennes et patinées voit sculptées dans la
+    falaise. Voici les gobelin sculptés.)
+  attributes: {}
+*65: !ruby/string:Nori::StringWithAttributes La corde attachés à l'un des piliers
+  penchée se bloque dans les ténèbres de la ravine. À en juger par son bon état, la
+  corde ne pouvait pas avoir été liée il plus longtemps que deux ou trois semaines.
+  Du bord du ravin, points d'ancrage et les poignées anciennes et patinées voit sculptées
+  dans la falaise. Voici les gobelin sculptés. (La corde attachés à l'un des piliers
+  notamment se bloque dans les ténèbres de la ravine. À en juger par son bon état,
+  la corde ne optative pas avoir été liée il plus longtemps que deux ou trois semaines.
+  Du bord du ravin, points d'ancrage et les poignées anciennes et patinées voit sculptées
+  dans la falaise. Voici les gobelin sculptés.)
+? Adventurers can easily climb down the knotted rope, using the wall to brace themselves.
+  Using the carved indentations is slower but only slightly harder. The descent is
+  50 feet to the ledge (area 1). (Aventuriers peuvent facilement grimper à la corde
+  nouée, en utilisant le mur pour eux-mêmes. En utilisant les indentations sculptées
+  est plus lent mais seulement un peu plus difficile. La descente est de 50 pieds
+  au rebord (zone 1).)
+: !ruby/string:Nori::StringWithAttributes Adventurers can easily climb down the knotted
+  rope, using the wall to brace themselves. Using the carved indentations is slower
+  but only slightly harder. The descent is 50 feet to the ledge (area 1). (Aventuriers
+  peuvent facilement grimper à la corde nouée, en utilisant le mur pour eux-mêmes.
+  En utilisant les indentations sculptées est plus lent mais seulement un peu plus
+  difficile. La descente est de 50 pieds au rebord (zone 1).)
+General Features (Caractéristiques générales): !ruby/string:Nori::StringWithAttributes General
+  Features (Caractéristiques générales)
+? The following facts about the environment are true unless otherwise noted in a specific
+  area description. (Les faits suivants concernant l'environnement sont vrais, sauf
+  indication contraire dans une description de la zone spécifique.)
+: !ruby/string:Nori::StringWithAttributes The following facts about the environment
+  are true unless otherwise noted in a specific area description. (Les faits suivants
+  concernant l'environnement sont vrais, sauf indication contraire dans une description
+  de la zone spécifique.)
+'Doors. (Portes. ) ': &66 !ruby/string:Nori::StringWithAttributes
+  str: 'Portes. (Portes). '
+  attributes: {}
+*66: !ruby/string:Nori::StringWithAttributes 'Portes. (Portes). '
+The doors are wooden or stone. (Les portes sont en bois ou en pierre.): !ruby/string:Nori::StringWithAttributes The
+  doors are wooden or stone. (Les portes sont en bois ou en pierre.)
+'Light. (Lumière. ) ': !ruby/string:Nori::StringWithAttributes 'Light. (Lumière. ) '
+? Beyond area 2, many rooms in the underground dungeon are lightless. Descriptions
+  assume that the characters have a suitable light source and are able to see their
+  surroundings. (Au delà de la zone 2, beaucoup de chambres dans le cachot souterrain
+  est tous feux éteints. Descriptions de supposent que les personnages ont un éclairage
+  approprié et sont capables de voir leur environnement.)
+: !ruby/string:Nori::StringWithAttributes Beyond area 2, many rooms in the underground
+  dungeon are lightless. Descriptions assume that the characters have a suitable light
+  source and are able to see their surroundings. (Au delà de la zone 2, beaucoup de
+  chambres dans le cachot souterrain est tous feux éteints. Descriptions de supposent
+  que les personnages ont un éclairage approprié et sont capables de voir leur environnement.)
+'Ventilation. (Ventilation. ) ': &67 !ruby/string:Nori::StringWithAttributes
+  str: 'Ventilation. (Ventilation) '
+  attributes: {}
+*67: !ruby/string:Nori::StringWithAttributes 'Ventilation. (Ventilation) '
+? All keyed areas contain an adequate air supply. The air is renewed from countless
+  cracks leading to the upper open cavern and the surface. These cracks are too small
+  for any but creatures such as giant rats to navigate. (Tous les domaines clés contiennent
+  une arrivée d'air suffisante. L'air est renouvelé d'innombrables fissures menant
+  à la caverne ouverte supérieure et à la surface. Ces fissures sont trop petits pour
+  tout, mais des créatures comme des rats géants pour naviguer.)
+: !ruby/string:Nori::StringWithAttributes All keyed areas contain an adequate air
+  supply. The air is renewed from countless cracks leading to the upper open cavern
+  and the surface. These cracks are too small for any but creatures such as giant
+  rats to navigate. (Tous les domaines clés contiennent une arrivée d'air suffisante.
+  L'air est renouvelé d'innombrables fissures menant à la caverne ouverte supérieure
+  et à la surface. Ces fissures sont trop petits pour tout, mais des créatures comme
+  des rats géants pour naviguer.)
+? A sandy ledge overlooks a subterranean gulf of darkness to the west. The ledge is
+  wide but rough. Sand, rocky debris, and the bones of small animals cover it. A rough-hewn
+  stairwell zigs and zags down the side of the ledge, descending into darkness.
+: &68 !ruby/string:Nori::StringWithAttributes
+  str: Une corniche sable donne sur un gouffre souterrain des ténèbres à l’Ouest.
+    Le rebord est large mais rude. Sable, de débris rocheux et les ossements de petits
+    animaux couvrent. Un escalier mal dégrossi zigs et zigzags sur le côté de la corniche,
+    sombrant dans les ténèbres.
+  attributes: {}
+*68: !ruby/string:Nori::StringWithAttributes Une corniche sable donne sur un gouffre
+  souterrain des ténèbres à l'Ouest. Le rebord est large mais rude. Sable, de débris
+  rocheux et les ossements de petits animaux couvrent. Un escalier mal dégrossi zigs
+  et zigzags sur le côté de la corniche, sombrant dans les ténèbres.
+? 'The far wall of the chasm is 250 feet to the west, and the bottom of the subterranean
+  vault is 80 feet below where the characters stand. '
+: &69 !ruby/string:Nori::StringWithAttributes
+  str: 'Le mur du fond de l’abîme est 250 pieds à l’Ouest, et le fond de la voûte
+    souterraine est 80 pieds au-dessous de situer les personnages. '
+  attributes: {}
+*69: !ruby/string:Nori::StringWithAttributes 'Le mur du fond de l''abîme est 250 pieds
+  à l''Ouest, et le fond de la voûte souterraine est 80 pieds au-dessous de situer
+  les personnages. '
+'Creatures. ': &70 !ruby/string:Nori::StringWithAttributes
+  str: 'Créatures. '
+  attributes: {}
+*70: !ruby/string:Nori::StringWithAttributes 'Créatures. '
+'Drawn by the occasional animal that accidentally falls into the ravine, three ': &71 !ruby/string:Nori::StringWithAttributes
+  str: 'Dessiné par l’animal occasionnel qui tombe accidentellement dans le ravin,
+    trois '
+  attributes: {}
+*71: !ruby/string:Nori::StringWithAttributes 'Dessiné par l''animal occasionnel qui
+  tombe accidentellement dans le ravin, trois '
+'giant rats ': &72 !ruby/string:Nori::StringWithAttributes
+  str: 'rats géants '
+  attributes: {}
+*72: !ruby/string:Nori::StringWithAttributes 'rats géants '
+? lurk in the rubble. They try to hide if they become aware of the characters, and
+  they ambush the first character who arrives on the ledge without being quiet about
+  it.
+: &73 !ruby/string:Nori::StringWithAttributes
+  str: se cachent dans les décombres. Ils essaient de se cacher si ils prennent conscience
+    des personnages, et ils embuscade le premier caractère qui arrive sur le rebord
+    sans être tranquille à ce sujet.
+  attributes: {}
+*73: !ruby/string:Nori::StringWithAttributes se cachent dans les décombres. Ils essaient
+  de se cacher si ils prennent conscience des personnages, et ils embuscade le premier
+  caractère qui arrive sur le rebord sans être tranquille à ce sujet.
+? A successful DC 10 Wisdom (Survival) check reveals humanoid footprints, as well
+  as rat tracks of unusually large size. The footprints lead down the stairs.
+: &74 !ruby/string:Nori::StringWithAttributes
+  str: Une vérification réussie de DC 10 sagesse (survie) révèle humanoïdes empreintes,
+    ainsi que les titres de rat de taille anormalement grande. Les empreintes descendent
+    l’escalier.
+  attributes: {}
+*74: !ruby/string:Nori::StringWithAttributes Une vérification réussie de DC 10 sagesse
+  (survie) révèle humanoïdes empreintes, ainsi que les titres de rat de taille anormalement
+  grande. Les empreintes descendent l'escalier.
+? Among the rubble is an old ring of stones that contains (and is covered by) the
+  accumulated ash of hundreds of fires, though no fire has been lit here for a few
+  years. Inside the ash pile are a few rough-hewn spear tips of goblin manufacture
+  and small animal bones.
+: &75 !ruby/string:Nori::StringWithAttributes
+  str: Parmi les décombres, est un ancien cercle de pierres qui contient (et est couvert
+    par) l’accumulé les cendres des centaines de feux, mais aucun feu n’a été allumé
+    ici pendant quelques années. À l’intérieur du tas de cendres sont quelques conseils
+    lance mal dégrossi de fabrication gobelin et des petits os d’animaux.
+  attributes: {}
+*75: !ruby/string:Nori::StringWithAttributes Parmi les décombres, est un ancien cercle
+  de pierres qui contient (et est couvert par) l'accumulé les cendres des centaines
+  de feux, mais aucun feu n'a été allumé ici pendant quelques années. À l'intérieur
+  du tas de cendres sont quelques conseils lance mal dégrossi de fabrication gobelin
+  et des petits os d'animaux.
+? The 5-foot-wide stairs that descend from area 1 are roughly carved. They aren't
+  dangerous to traverse, however, except that combat while on the narrow path can
+  be risky. Three small landings lie along the route, the first at 60 feet above the
+  floor in area 3, the second at 40 feet, and the third at 20 feet.
+: &76 !ruby/string:Nori::StringWithAttributes
+  str: L’escalier de 5 pieds de large qui descendent de la zone 1 est grossièrement
+    sculptés. Ils ne sont pas dangereux à parcourir, mais sauf que combat tandis que
+    sur le chemin étroit peut être risqué. Trois petits paliers se trouvent le long
+    de la route, le premier à 60 pieds au-dessus du sol en zone 3, le deuxième à 40
+    pieds et le troisième à 20 pieds.
+  attributes: {}
+*76: !ruby/string:Nori::StringWithAttributes L'escalier de 5 pieds de large qui descendent
+  de la zone 1 est grossièrement sculptés. Ils ne sont pas dangereux à parcourir,
+  mais sauf que combat tandis que sur le chemin étroit peut être risqué. Trois petits
+  paliers se trouvent le long de la route, le premier à 60 pieds au-dessus du sol
+  en zone 3, le deuxième à 40 pieds et le troisième à 20 pieds.
+'The characters might be able to see area 3 as they descend. ': &77 !ruby/string:Nori::StringWithAttributes
+  str: 'Les caractères peuvent être en mesure de voir la zone 3 comme ils descendent. '
+  attributes: {}
+*77: !ruby/string:Nori::StringWithAttributes 'Les caractères peuvent être en mesure
+  de voir la zone 3 comme ils descendent. '
+? A fortress emerges from the darkness. The subterranean citadel, though impressive,
+  seems long forgotten, if the lightless windows, cracked crenellations, and leaning
+  towers are any indication. All is quiet, though a cold breeze blows up from below,
+  bringing with it the scent of dust and a faint trace of rot.
+: &78 !ruby/string:Nori::StringWithAttributes
+  str: Une forteresse émerge de l’obscurité. La citadelle souterraine, bien qu’impressionnant,
+    semble oubliée depuis longtemps, si le windows tous feux éteints, fissuré créneaux
+    et tours penchées sont une indication. Tout est calme, même si un vent froid souffle
+    sur par-dessous, apportant avec lui l’odeur de poussière et une légère trace de
+    pourriture.
+  attributes: {}
+*78: !ruby/string:Nori::StringWithAttributes Une forteresse émerge de l'obscurité.
+  La citadelle souterraine, bien qu'impressionnant, semble oubliée depuis longtemps,
+  si le windows tous feux éteints, fissuré créneaux et tours penchées sont une indication.
+  Tout est calme, même si un vent froid souffle sur par-dessous, apportant avec lui
+  l'odeur de poussière et une légère trace de pourriture.
+? The narrow stairs empty into a small courtyard, apparently the top of what was once
+  a crenellated battlement. The buried citadel has sunk so far into the earth that
+  the battlement is now level with the surrounding floor. That floor stretches away
+  to the north and south, composed of a layer of treacherous, crumbled masonry, which
+  reaches to an unknown depth. To the west looms the surviving structure of what must
+  be the Sunless Citadel. A tower stands on the west side of the courtyard.
+: &79 !ruby/string:Nori::StringWithAttributes
+  str: L’étroit escalier vide dans une petite cour, apparemment la partie supérieure
+    de ce qui était autrefois un rempart crénelé. La citadelle enterrée a coulé jusqu'à
+    présent dans la terre que le rempart est maintenant de niveau avec le sol environnant.
+    Ce plancher s’étend loin vers le Nord et Sud, composé d’une couche de perfide,
+    émietté de maçonnerie, qui atteint jusqu'à une profondeur inconnue. À l’ouest
+    se dessine la structure survivante de ce que doit être la citadelle sans soleil.
+    Une tour se dresse sur la rive ouest de la Cour.
+  attributes: {}
+*79: !ruby/string:Nori::StringWithAttributes L'étroit escalier vide dans une petite
+  cour, apparemment la partie supérieure de ce qui était autrefois un rempart crénelé.
+  La citadelle enterrée a coulé jusqu'à présent dans la terre que le rempart est maintenant
+  de niveau avec le sol environnant. Ce plancher s'étend loin vers le Nord et Sud,
+  composé d'une couche de perfide, émietté de maçonnerie, qui atteint jusqu'à une
+  profondeur inconnue. À l'ouest se dessine la structure survivante de ce que doit
+  être la citadelle sans soleil. Une tour se dresse sur la rive ouest de la Cour.
+'The stone courtyard, surrounded by crumbled masonry, contains a trap and a wooden door. ': &80 !ruby/string:Nori::StringWithAttributes
+  str: 'La Cour de Pierre, entourée de maçonnerie émiettée, contient un piège et une
+    porte en bois. '
+  attributes: {}
+*80: !ruby/string:Nori::StringWithAttributes 'La Cour de Pierre, entourée de maçonnerie
+  émiettée, contient un piège et une porte en bois. '
+'Masonry Debris. ': &81 !ruby/string:Nori::StringWithAttributes
+  str: 'Débris de maçonnerie. '
+  attributes: {}
+*81: !ruby/string:Nori::StringWithAttributes 'Débris de maçonnerie. '
+? An expanse of crumbled masonry surrounds the entire citadel. Those attempting to
+  cross it immediately note its unsteadiness. The rubble is difficult terrain. Anyone
+  who moves across the debris must make a DC 10 Dexterity (Acrobatics) check for each
+  10 feet traversed. On a failed check, the character is unable to move. If the check
+  fails by 5 or more, a slab of masonry below the character shifts, dumping the character
+  into a debris-lined cavity. Climbing back out requires a successful DC 10 Strength
+  (Athletics) check; on a failed check, the victim drops back into the cavity.
+: &82 !ruby/string:Nori::StringWithAttributes
+  str: Une étendue de maçonnerie émietté entoure la citadelle entière. Ceux qui tentent
+    de traverser immédiatement noter son instabilité. Les décombres sont accidenté.
+    Toute personne qui se déplace à travers les débris doit effectuer une vérification
+    de DC 10 dextérité (acrobatie) pour chaque 10 pieds a traversé. Lors d’un contrôle
+    ayant échoué, le personnage est incapable de bouger. Si la vérification échoue
+    par 5 ou plus, une dalle de maçonnerie au-dessous le caractère change, dumping
+    le personnage dans une cavité bordées de débris. Grimper retour exige un contrôle
+    réussi de DC 10 force (athlétisme) ; lors d’un contrôle ayant échoué, la victime
+    retombe dans la cavité.
+  attributes: {}
+*82: !ruby/string:Nori::StringWithAttributes Une étendue de maçonnerie émietté entoure
+  la citadelle entière. Ceux qui tentent de traverser immédiatement noter son instabilité.
+  Les décombres sont accidenté. Toute personne qui se déplace à travers les débris
+  doit effectuer une vérification de DC 10 dextérité (acrobatie) pour chaque 10 pieds
+  a traversé. Lors d'un contrôle ayant échoué, le personnage est incapable de bouger.
+  Si la vérification échoue par 5 ou plus, une dalle de maçonnerie au-dessous le caractère
+  change, dumping le personnage dans une cavité bordées de débris. Grimper retour
+  exige un contrôle réussi de DC 10 force (athlétisme) ; lors d'un contrôle ayant
+  échoué, la victime retombe dans la cavité.
+'Each time a creature falls into a cavity, the noise is 10 percent likely to draw 1d4 ': &83 !ruby/string:Nori::StringWithAttributes
+  str: 'Chaque fois qu’une créature tombe dans une cavité, le bruit est susceptible
+    d’attirer 1D4 de 10 pour cent '
+  attributes: {}
+*83: !ruby/string:Nori::StringWithAttributes 'Chaque fois qu''une créature tombe dans
+  une cavité, le bruit est susceptible d''attirer 1D4 de 10 pour cent '
+from the dozens that infest the rubble field. Attracted rats move carefully and stealthily through the rubble to attack.: &84 !ruby/string:Nori::StringWithAttributes
+  str: depuis des dizaines qui infestent le champ de gravats. Les rats attirés par
+    déplacent soigneusement et discrètement dans les décombres pour attaquer.
+  attributes: {}
+*84: !ruby/string:Nori::StringWithAttributes depuis des dizaines qui infestent le
+  champ de gravats. Les rats attirés par déplacent soigneusement et discrètement dans
+  les décombres pour attaquer.
+'Hidden Pit. ': &85 !ruby/string:Nori::StringWithAttributes
+  str: 'Fosse cachée. '
+  attributes: {}
+*85: !ruby/string:Nori::StringWithAttributes 'Fosse cachée. '
+? The map shows the location of a concealed trapdoor that covers a 10-foot-square,
+  10-footdeep pit. A 2-foot-wide catwalk on the west edge allows access to the door
+  that leads to area 4. It takes a successful DC 15 Wisdom (Perception) check to note
+  the trapdoor's unmortared edge. Then, a successful DC 10 Intelligence (Investigation)
+  check lets a character deduce the location of the catwalk and how the pit operates.
+: &86 !ruby/string:Nori::StringWithAttributes
+  str: La carte montre l’emplacement d’une trappe cachée qui couvre un 10 pieds-carrés,
+    10-footdeep fosse. Une passerelle de 2 pieds de large sur le bord ouest permet
+    d’accéder à la porte qui mène à la zone 4. Il faut une vérification réussie de
+    DC 15 sagesse (Perception) de noter les enlevaient bord de la trappe. Puis, une
+    vérification réussie de DC 10 Intelligence (enquête) permet un caractère de déduire
+    l’emplacement de la passerelle et le fonctionne de la fosse.
+  attributes: {}
+*86: !ruby/string:Nori::StringWithAttributes La carte montre l'emplacement d'une trappe
+  cachée qui couvre un 10 pieds-carrés, 10-footdeep fosse. Une passerelle de 2 pieds
+  de large sur le bord ouest permet d'accéder à la porte qui mène à la zone 4. Il
+  faut une vérification réussie de DC 15 sagesse (Perception) de noter les enlevaient
+  bord de la trappe. Puis, une vérification réussie de DC 10 Intelligence (enquête)
+  permet un caractère de déduire l'emplacement de la passerelle et le fonctionne de
+  la fosse.
+? If a creature steps on the trapdoor, the lid flips open, dumping the creature into
+  the pit. With a successful DC 15 Dexterity check, a creature can use thieves' tools
+  to jam the lid shut. A mechanism resets the trap 1 minute after the door opens,
+  pushing it back into the closed position. The mechanism is in the pit wall under
+  the catwalk. A creature can jam it in the open position with a successful DC 15
+  Dexterity check using thieves' tools. If this check succeeds by 5 or more, the mechanism
+  can be permanently disabled if desired.
+: &87 !ruby/string:Nori::StringWithAttributes
+  str: Si une créature un pas sur la trappe, le couvercle s’ouvre, dumping la créature
+    dans la fosse. Avec un chèque de DC 15 dextérité réussi, une créature pouvez utiliser
+    des outils de voleurs à la pour confiture de la fermeture du couvercle. Un mécanisme
+    réinitialise le piège 1 minute après que la porte s’ouvre, poussant à l’arrière
+    en position fermée. Le mécanisme est dans le mur des stands sous la passerelle.
+    Une créature peut se bloquer il en position ouverte avec un chèque de DC 15 dextérité
+    réussi à l’aide d’outils de voleurs. Si cette vérification aboutit par 5 ou plus,
+    le mécanisme peut être définitivement désactivé si vous le souhaitez.
+  attributes: {}
+*87: !ruby/string:Nori::StringWithAttributes Si une créature un pas sur la trappe,
+  le couvercle s'ouvre, dumping la créature dans la fosse. Avec un chèque de DC 15
+  dextérité réussi, une créature pouvez utiliser des outils de voleurs à la pour confiture
+  de la fermeture du couvercle. Un mécanisme réinitialise le piège 1 minute après
+  que la porte s'ouvre, poussant à l'arrière en position fermée. Le mécanisme est
+  dans le mur des stands sous la passerelle. Une créature peut se bloquer il en position
+  ouverte avec un chèque de DC 15 dextérité réussi à l'aide d'outils de voleurs. Si
+  cette vérification aboutit par 5 ou plus, le mécanisme peut être définitivement
+  désactivé si vous le souhaitez.
+'The pit contains two goblin skeletons, one goblin that has been dead for about a day, and one live ': &88 !ruby/string:Nori::StringWithAttributes
+  str: 'La fosse contient deux squelettes de gobelin, un gobelin qui a été mort depuis
+    environ une journée et une webcam live '
+  attributes: {}
+*88: !ruby/string:Nori::StringWithAttributes 'La fosse contient deux squelettes de
+  gobelin, un gobelin qui a été mort depuis environ une journée et une webcam live '
+'giant rat. ': &89 !ruby/string:Nori::StringWithAttributes
+  str: 'rat géant. '
+  attributes: {}
+*89: !ruby/string:Nori::StringWithAttributes 'rat géant. '
+? The rat, which slipped into the pit to feed on the fresh goblin but was caught when
+  the trap reset, attacks creatures inside the pit or climbs out to attack those nearby.
+: &90 !ruby/string:Nori::StringWithAttributes
+  str: Le rat, qui a glissé dans la fosse pour se nourrir sur le gobelin fraîche mais
+    a été pris lorsque le piège réinitialisé, attaques des créatures à l’intérieur
+    de la fosse ou grimpe à attaquer les personnes à proximité.
+  attributes: {}
+*90: !ruby/string:Nori::StringWithAttributes Le rat, qui a glissé dans la fosse pour
+  se nourrir sur le gobelin fraîche mais a été pris lorsque le piège réinitialisé,
+  attaques des créatures à l'intérieur de la fosse ou grimpe à attaquer les personnes
+  à proximité.
+'Treasure. ': &91 !ruby/string:Nori::StringWithAttributes
+  str: 'Trésor. '
+  attributes: {}
+*91: !ruby/string:Nori::StringWithAttributes 'Trésor. '
+The goblin corpse has a scimitar and a shield, as well as 23 sp and 4 gp in a belt pouch.: &92 !ruby/string:Nori::StringWithAttributes
+  str: Le cadavre de gobelin a un cimeterre et un bouclier, ainsi que 23 sp et 4 gp
+    dans un étui de ceinture.
+  attributes: {}
+*92: !ruby/string:Nori::StringWithAttributes Le cadavre de gobelin a un cimeterre
+  et un bouclier, ainsi que 23 sp et 4 gp dans un étui de ceinture.
+? This circular area is cobbled with cracked granite, upon which sprawl the bodies
+  of four goblins, apparently slain in combat. One corpse stands with its back against
+  the western wall, the spear that killed it still skewering it and holding it upright.
+  Three wooden doors lead from this area. A hollow tower of loose masonry reaches
+  thirty feet into the air, but the intervening floors and stairs are gone, except
+  for a couple of crumbled ledges.
+: &93 !ruby/string:Nori::StringWithAttributes
+  str: Cette zone circulaire est pavée avec granit fissuré, sur lesquels étalement
+    urbain les corps des quatre lutins, apparemment tués au combat. Un cadavre tourne
+    son dos contre le mur occidental, la lance qui a tué encore embrochement elle
+    et tenant debout. Trois portes en bois mènent de ce domaine. Une tour de creuse
+    de maçonnerie lâche atteint trente pieds dans les airs, mais les planchers intermédiaires
+    et les escaliers sont partis, à l’exception de quelques saillies émiettés.
+  attributes: {}
+*93: !ruby/string:Nori::StringWithAttributes Cette zone circulaire est pavée avec
+  granit fissuré, sur lesquels étalement urbain les corps des quatre lutins, apparemment
+  tués au combat. Un cadavre tourne son dos contre le mur occidental, la lance qui
+  a tué encore embrochement elle et tenant debout. Trois portes en bois mènent de
+  ce domaine. Une tour de creuse de maçonnerie lâche atteint trente pieds dans les
+  airs, mais les planchers intermédiaires et les escaliers sont partis, à l'exception
+  de quelques saillies émiettés.
+'Bodies. ': &94 !ruby/string:Nori::StringWithAttributes
+  str: 'Corps. '
+  attributes: {}
+*94: !ruby/string:Nori::StringWithAttributes 'Corps. '
+? 'Investigation reveals that the four goblins have been dead for quite a while, and
+  rats have gnawed at them. The bodies have been looted. If someone removes the spear
+  pinning the goblin to the wall, the body slumps to reveal Draconic runes on the
+  wall behind it. Those who know the Draconic language can read the runes as "Ashardalon." '
+: &95 !ruby/string:Nori::StringWithAttributes
+  str: 'Enquête révèle que les quatre Gobelins ont été morts pendant un certain temps,
+    et des rats ont rongé les. Les corps ont été pillés. Si quelqu''un supprime la
+    lance épinglant le gobelin au mur, le corps s’effondre pour révéler des runes
+    draconiques sur le mur derrière elle. Ceux qui connaissent le langage draconique
+    peuvent lire les runes comme « Ashardalon. » '
+  attributes: {}
+*95: !ruby/string:Nori::StringWithAttributes 'Enquête révèle que les quatre Gobelins
+  ont été morts pendant un certain temps, et des rats ont rongé les. Les corps ont
+  été pillés. Si quelqu''un supprime la lance épinglant le gobelin au mur, le corps
+  s''effondre pour révéler des runes draconiques sur le mur derrière elle. Ceux qui
+  connaissent le langage draconique peuvent lire les runes comme « Ashardalon. » '
+'Secret Door. ': &96 !ruby/string:Nori::StringWithAttributes
+  str: 'Secret de. '
+  attributes: {}
+*96: !ruby/string:Nori::StringWithAttributes 'Secret de. '
+? A trapped secret door leads to area 5. Finding the door requires a successful DC
+  20 Wisdom (Perception) check. The door opens by way of a masonry block that also
+  serves as a lever, which can be pushed in on the left side or pulled out from the
+  right.
+: &97 !ruby/string:Nori::StringWithAttributes
+  str: Une porte secrète piégée mène à la zone 5. Trouver la porte nécessite une vérification
+    réussie de DC 20 sagesse (Perception). La porte s’ouvre au moyen d’un bloc de
+    maçonnerie qui sert également un levier, qui peut être poussé sur le côté gauche
+    ou sorti de la droite.
+  attributes: {}
+*97: !ruby/string:Nori::StringWithAttributes Une porte secrète piégée mène à la zone
+  5. Trouver la porte nécessite une vérification réussie de DC 20 sagesse (Perception).
+  La porte s'ouvre au moyen d'un bloc de maçonnerie qui sert également un levier,
+  qui peut être poussé sur le côté gauche ou sorti de la droite.
+'Needle Trap. ': &98 !ruby/string:Nori::StringWithAttributes
+  str: 'Piège de l’aiguille. '
+  attributes: {}
+*98: !ruby/string:Nori::StringWithAttributes 'Piège de l''aiguille. '
+? If the lever is pulled out, that movement sets off a needle trap. The needle extends
+  3 inches out of the opening, dealing 1 piercing damage to whoever pulled the lever.
+  Someone who carefully and slowly pulls the lever open can easily see the needle
+  before it strikes. Disabling the needle requires thieves' tools and a successful
+  DC 15 Dexterity check. If the check fails by 5 or more, the trap goes off, stabbing
+  the character unless the character succeeds on a DC 15 Dexterity saving throw.
+: &99 !ruby/string:Nori::StringWithAttributes
+  str: Si le levier est tiré, ce mouvement déclenche un piège de l’aiguille. L’aiguille
+    s’étend de 3 pouces hors de l’ouverture, portant sur 1 piercing dommages à celui
+    qui tire le levier. Quelqu'un qui lentement et soigneusement tire le levier ouvert
+    peut facilement voir l’aiguille avant il ne frappe. Désactivation de l’aiguille
+    exige outils thieves' et une vérification réussie de DC 15 dextérité. Si la vérification
+    échoue par 5 ou plus, le piège se déclenche, coups de couteau le caractère à moins
+    que le personnage réussit sur un DC 15 dextérité sauver jeter.
+  attributes: {}
+*99: !ruby/string:Nori::StringWithAttributes Si le levier est tiré, ce mouvement déclenche
+  un piège de l'aiguille. L'aiguille s'étend de 3 pouces hors de l'ouverture, portant
+  sur 1 piercing dommages à celui qui tire le levier. Quelqu'un qui lentement et soigneusement
+  tire le levier ouvert peut facilement voir l'aiguille avant il ne frappe. Désactivation
+  de l'aiguille exige outils thieves' et une vérification réussie de DC 15 dextérité.
+  Si la vérification échoue par 5 ou plus, le piège se déclenche, coups de couteau
+  le caractère à moins que le personnage réussit sur un DC 15 dextérité sauver jeter.
