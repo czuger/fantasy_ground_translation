@@ -474,3 +474,77 @@ The doors are wooden or stone.: &38 !ruby/string:Nori::StringWithAttributes
     des autres races. '
   attributes: {}
 *42: *42
+? No one knows for sure what the Sunless Citadel once was, but legends hint that it
+  served as the retreat of an ancient dragon cult.
+: &43 !ruby/string:Nori::StringWithAttributes
+  str: Personne ne sait avec certitude ce qui la citadelle Sunless était autrefois,
+    mais le soupçon de légendes qu’il servit à la retraite d’un culte ancien dragon.
+  attributes: {}
+*43: !ruby/string:Nori::StringWithAttributes Personne ne sait avec certitude ce qui
+  la citadelle Sunless était autrefois, mais le soupçon de légendes qu'il servit à
+  la retraite d'un culte ancien dragon.
+? The Old Road skirts the Ashen Plain, a lifeless area. A character who succeeds on
+  a DC 15 Intelligence (History) check knows that the desolation is attributed to
+  the long-ago rampage of a dragon named Ashardalon. A few locals also know this fact.
+: &44 !ruby/string:Nori::StringWithAttributes
+  str: La vieille route longe la plaine Ashen, un quartier sans vie. Un personnage
+    qui réussit lors d’un contrôle DC 15 Intelligence (histoire) sait que la désolation
+    est attribuée à la rampage long-il y a d’un dragon nommé Ashardalon. Quelques
+    gens du coin savent aussi ce fait.
+  attributes: {}
+*44: !ruby/string:Nori::StringWithAttributes La vieille route longe la plaine Ashen,
+  un quartier sans vie. Un personnage qui réussit lors d'un contrôle DC 15 Intelligence
+  (histoire) sait que la désolation est attribuée à la rampage long-il y a d'un dragon
+  nommé Ashardalon. Quelques gens du coin savent aussi ce fait.
+? Cattle herders don't graze their stock too far afield these days. They're frightened
+  by stories of new monsters that maraud by night. From time to time, cattle and people
+  who have gone out alone at night have been found dead the next day, bearing dozens
+  of needle-like wounds. No one has seen the creatures that cause this mayhem, nor
+  do they leave a discernible trail.
+: &45 !ruby/string:Nori::StringWithAttributes
+  str: Les éleveurs de bovins ne paissent leur stock trop loin ces jours-ci. Ils sont
+    effrayés par les histoires de nouveaux monstres qui maraud par nuit. De temps
+    à autre, bétail et ceux qui est partis seul dans la nuit a retrouvé mort le lendemain,
+    portant des dizaines de plaies aciculaires. Personne n’a vu les créatures qui
+    causent ce grabuge, ni qu’ils laissent une traînée visible.
+  attributes: {}
+*45: !ruby/string:Nori::StringWithAttributes Les éleveurs de bovins ne paissent leur
+  stock trop loin ces jours-ci. Ils sont effrayés par les histoires de nouveaux monstres
+  qui maraud par nuit. De temps à autre, bétail et ceux qui est partis seul dans la
+  nuit a retrouvé mort le lendemain, portant des dizaines de plaies aciculaires. Personne
+  n'a vu les créatures qui causent ce grabuge, ni qu'ils laissent une traînée visible.
+? The missing adventurers include a fighter (Talgen Hucrele), a wizard (Sharwyn Hucrele),
+  a paladin of Pelor (Sir Braford), and a ranger (Karakas). Sir Braford was not a
+  local, and he had a magic sword called Shatterspike.
+: &46 !ruby/string:Nori::StringWithAttributes
+  str: Les aventuriers manquantes comprennent un combattant (Talgen Hucrele), un Assistant
+    (Sharwyn Hucrele), un paladin de Pelor (Sir Braford) et un ranger (Karakas). Sir
+    Braford n’était pas un local, et il avait une épée magique appelée Shatterspike.
+  attributes: {}
+*46: !ruby/string:Nori::StringWithAttributes Les aventuriers manquantes comprennent
+  un combattant (Talgen Hucrele), un Assistant (Sharwyn Hucrele), un paladin de Pelor
+  (Sir Braford) et un ranger (Karakas). Sir Braford n'était pas un local, et il avait
+  une épée magique appelée Shatterspike.
+? Sometimes the goblins offer a different apple at mid winter. This apple is corpse-white
+  and poisonous, even to the touch. No samples of either apple are to be had.
+: &47 !ruby/string:Nori::StringWithAttributes
+  str: Les Korrigans proposent parfois une pomme différente au milieu de l’hiver.
+    Cette pomme est cadavre-blanc et toxique, même au toucher. Aucun échantillon de
+    soit apple n’est à avoir.
+  attributes: {}
+*47: !ruby/string:Nori::StringWithAttributes Les Korrigans proposent parfois une pomme
+  différente au milieu de l'hiver. Cette pomme est cadavre-blanc et toxique, même
+  au toucher. Aucun échantillon de soit apple n'est à avoir.
+? Garon, the barkeep of the Ol' Boar Inn, remembers the last time anyone, aside from
+  Talgen and Sharwyn, asked questions about the Sunless Citadel. About thirteen years
+  ago, a grim human named Belak stopped by, and he had a very large pet frog
+: &48 !ruby/string:Nori::StringWithAttributes
+  str: Garon, le barman de l’ol ' Boar Inn, souvient la dernière fois que n’importe
+    qui, en dehors de Talgen et de Sharwyn, posé des questions sur la citadelle sans
+    soleil. Environ treize ans, un homme sombre nommé Belak arrêté, et il avait une
+    très grande grenouille pour animaux de compagnie
+  attributes: {}
+*48: !ruby/string:Nori::StringWithAttributes Garon, le barman de l'ol ' Boar Inn,
+  souvient la dernière fois que n'importe qui, en dehors de Talgen et de Sharwyn,
+  posé des questions sur la citadelle sans soleil. Environ treize ans, un homme sombre
+  nommé Belak arrêté, et il avait une très grande grenouille pour animaux de compagnie

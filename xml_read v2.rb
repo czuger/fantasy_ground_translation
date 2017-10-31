@@ -36,24 +36,33 @@ def translate_text_bloc( t_cache, text_bloc, debug )
       end
     else
       puts 'Translating single p' if debug
-      add_translated_bloc( t_cache, t, debug )
+      append_translated_bloc( t_cache, t )
     end
   elsif t.name == 'b'
     puts 'Translating single b' if debug
     p t if debug
-    add_translated_bloc( t_cache, t, debug )
+    append_translated_bloc( t_cache, t )
   elsif t.class == Nokogiri::XML::Text
     puts 'Translating sub text' if debug
     p t if debug
-    add_translated_bloc( t_cache, t, debug )
+    append_translated_bloc( t_cache, t )
 
   elsif t.name == 'h'
     puts 'Translating header'  if debug
     append_translated_bloc( t_cache, t )
 
-  elsif t.name = 'list'
+  elsif t.name == 'list'
     puts 'Translating list' if debug
-    p t
+    t.children.each do |children|
+      p "Children = " + children.inspect if debug
+      next if children.class == Nokogiri::XML::Text
+      append_translated_bloc( t_cache, children.children.first )
+    end
+
+  elsif t.name == 'frame'
+    puts 'Translating list' if debug
+    add_translated_bloc( t_cache, t, debug )
+
   end
   # puts
 end
